@@ -1,8 +1,10 @@
-Credit for starting and doing the gameplay elements:
+## Credit
+Credit for starting and doing the gameplay elements:  
+Omnija - Translator, Artist, ROM Hacking  
+Sotaeko - Translator, Artist, Editor, Community Management  
+Original repository - [Medarot-9-3ds-Translations](https://github.com/Omnija/Medarot-9-3ds-Translations/tree/master)
 
-**Omnija** -  Translator, Artist, ROM Hacking
-**Sotaeko** - Translator, Artist, Editor, Community Management
-
+## Instructions
 For anyone who is might be trying to get this to work on an emulator. This works for me,
 
 1. Download [Azahar plus](https://github.com/AzaharPlus/AzaharPlus/releases), no aes_keys.txt needed to install the .cia
