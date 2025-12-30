@@ -1,3 +1,6 @@
+## Disclosure
+Just to be upfront, the initial story translation after Omnija and Sotaeko's work was made using DeepL's translations. This is initially machine translated. Which is in the process of being cleaned up by me (and hopefully more people!).
+
 ## Credit
 Credit for starting and doing the gameplay elements:  
 Omnija - Translator, Artist, ROM Hacking  
