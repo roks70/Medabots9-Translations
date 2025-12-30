@@ -1,3 +1,29 @@
 Credit for starting and doing the gameplay elements:
-Omnija -  Translator, Artist, ROM Hacking  
-Sotaeko - Translator, Artist, Editor, Community Management
+
+**Omnija** -  Translator, Artist, ROM Hacking
+**Sotaeko** - Translator, Artist, Editor, Community Management
+
+For anyone who is might be trying to get this to work on an emulator. This works for me,
+
+1. Download [Azahar plus](https://github.com/AzaharPlus/AzaharPlus/releases), no aes_keys.txt needed to install the .cia
+2. Download the .cia for the medabots game somewhere
+3. Download the files from the Medabots9-Translations repository
+4. Open Azahar.exe
+5. Install Medabots9 .cia game/file (File -> Install CIA... -> Find your .cia file)
+6. Right click on the game -> Open -> Mods Location, it should take you to something like this ...\AppData\Roaming\AzaharPlus\load\mods\0004000000174F00
+7. Make a romfs and exefs folder inside the 0004000000174F00 folder
+8. Add the exefs and romfs folders inside the data folder (from the repository download in step 3.) into the folder structure of the mod 0004000000174F00 folder
+9. For the banner.bnr pick one for the Metabee or Rokusho version
+
+It should end up looking something like this for the exefs folder:
+
+<img width="815" height="285" alt="image" src="https://github.com/user-attachments/assets/d672f876-1058-4d65-9b84-fbebc63146c2" />
+
+The banner.bnr is special, it just goes into the exefs folder (no extra folder).
+
+for the romfs folder,
+
+<img width="671" height="353" alt="image" src="https://github.com/user-attachments/assets/eab66efe-528e-479f-a04f-7d92523a3ce0" />
+
+This allows the modded files to be used directly from the emulator. Much easier than extracting/rebuilding every time.
+
