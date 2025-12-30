@@ -35,4 +35,6 @@ This allows the modded files to be used directly from the emulator. Much easier 
 ## Updates
 In the python folder is the **M9-translations.csv** where the japanese, english, and the file that the japanese came from. Currently these are what's used to populate the rest of the romfs/story/spt files. It is unpolished and needs more refining. You can directly update the .spt file (in notepad++ or your choice of editor, just make sure you don't remove the nulls/other characters) and upload it in the repository. The translation was through DeepL so it is definitely missing the Medabots context. 
 
+I have chosen to use a M9-cleaned-up-translations.csv file to put the cleaned up translated lines into so we know what lines need to be looked at still in the M9-translations.csv file. If there's a better way, let me know.
+
 I included the **populate-spt-files.py** script for populating the original .spt files (in **docs/spt-orig.zip**) en masse. I'll be updating when I can now, but if you see things like "pretty-pline" (you can search in the .csv to see the original japanese and try to dechiper it) that's actually the medabot Pretty Prime. Let me know where you see translation issues like that and I'll be able to update at some point (or you can upload the file).
