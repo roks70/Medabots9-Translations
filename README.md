@@ -29,3 +29,7 @@ for the romfs folder,
 
 This allows the modded files to be used directly from the emulator. Much easier than extracting/rebuilding every time.
 
+## Updates
+In the python folder is the **M9-translations.csv** where there's the japanese, english, file that the japanese came from. Currently these are what's used to populate the rest of the romfs/story/spt files. It is unpolished and needs more refining. You can directly update the .spt file (in notepad++ or your choice of editor, just make sure you don't remove the nulls/other characters) and upload it in the repository. The translation was through DeepL so it is definitely missing the Medabots context. 
+
+I included the **populate-spt-files.py** script for populating the original .spt files (also included) en masse. 
