@@ -6,7 +6,6 @@ jp,en,file
 今は忙しくて無理不可能であります！,It is impossible to do so now because I am too busy!,romfs\story\spt\bt0000.spt
 残念であります！,It is unfortunate!,romfs\story\spt\bt0000.spt
 ろぼとる・・するわん,ROBOTORU... do...,romfs\story\spt\bt0001.spt
-野良メダロット,stray medallion,romfs\story\spt\bt0001.spt
 くん、わかってるね…。,"Kun, you know what I mean....",romfs\story\spt\bt0002.spt
 できるだけ多くのターゲットを破壊せよ！,Destroy as many targets as possible!,romfs\story\spt\bt0002.spt
 ターゲット破壊アトラクション,Target Destruction Attraction,romfs\story\spt\bt0002.spt
@@ -20,18 +19,14 @@ jp,en,file
 ロボロボ団,Rubberobo,romfs\story\spt\bt0009.spt
 行くロボよー！,I'm going Lobo!,romfs\story\spt\bt0009.spt
 いっくぜ～！,Let's go!,romfs\story\spt\bt0011.spt
-リュウセイ,ryusei (spherical or egg-shaped part of a pagoda finial),romfs\story\spt\bt0011.spt
-手かげん無用な！,No need to be so clumsy!,romfs\story\spt\bt0011.spt
 すべて破壊せよ！,Destroy them all!,romfs\story\spt\bt0012.spt
 ガラクタ？,Rumble?,romfs\story\spt\bt0012.spt
 ・・・。,...,romfs\story\spt\bt0012.spt
 ガ・・・ガガ・・・。,Ga...ga...,romfs\story\spt\bt0013 - コピー (2).spt
 ・・・ガ・・・,Moth...,romfs\story\spt\bt0014.spt
-野良メダロット？,Stray medallions?,romfs\story\spt\bt0016.spt
 オトコノコは入ってきちゃダメです！,No wimps are allowed to come in!,romfs\story\spt\bt0018.spt
 ブライトネス,brightness,romfs\story\spt\bt0018.spt
 いくぞ！,Here we go!,romfs\story\spt\bt0021.spt
-リョウマ,leopard (Panthera pardus),romfs\story\spt\bt0021.spt
 アソブニャ・・,Asobnya...,romfs\story\spt\bt0022.spt
 ギ・・・ギ・・・ギ・・・,Guy... Guy... Guy...,romfs\story\spt\bt0024.spt
 ケ・・・ケケケ・・・。,Ke...ke ke ke...,romfs\story\spt\bt0027.spt
@@ -59,11 +54,7 @@ jp,en,file
 ビッグロボトル！,Big robattle!,romfs\story\spt\bt0037.spt
 ・・・てきはっけん！,...suitable discovery!,romfs\story\spt\bt0037.spt
 ・・・はいじょする！,..........to be removed!,romfs\story\spt\bt0037.spt
-左腕は破壊せずに、巨大メダロットを倒せ！,Defeat the giant medallion without destroying the left arm!,romfs\story\spt\bt0037.spt
-巨大メダロット,Giant Medalot,romfs\story\spt\bt0037.spt
-できるだけ多くのメダロットを倒せ！,Defeat as many medallions as possible!,romfs\story\spt\bt0038.spt
 機能停止数勝負！,Stop functioning number game!,romfs\story\spt\bt0039.spt
-全てのメダロットを倒せ！,Defeat all medallions!,romfs\story\spt\bt0040.spt
 勝ち抜きロボトル！,Winning robattle!,romfs\story\spt\bt0040.spt
 これだけいれば、負けないロボ～！,"With all these, we can't lose, Robo~!",romfs\story\spt\bt0041.spt
 メダリウム？,Medarium?,romfs\story\spt\bt0045.spt
@@ -80,13 +71,12 @@ jp,en,file
 ジュンペイ,Junpei era (1118.4.27-1120.4.10),romfs\story\spt\bt0303.spt
 えっ、ロボトル？,"What, robattle?",romfs\story\spt\bt0306.spt
 もちろんやるよ、いくよー。,"Of course I'll do it, I'll go!",romfs\story\spt\bt0306.spt
-シンタロウ,Shintaro (member of India's merchant-and-farmer caste),romfs\story\spt\bt0306.spt
+
 うん、やろう！,"Yeah, let's do it!",romfs\story\spt\bt0309.spt
 ヒロキ,Hiroki.,romfs\story\spt\bt0309.spt
 ロボトルかー。,"robattle, huh?",romfs\story\spt\bt0309.spt
 えー、ロボトル？,"Eh, robattle?",romfs\story\spt\bt0312.spt
 どうしよっかなあ。,I wonder what I should do.,romfs\story\spt\bt0312.spt
-カメキチ,"yellowtail amberjack (species of fish, Seriola lalandi)",romfs\story\spt\bt0312.spt
 いっくぞー！,I'm going to go!,romfs\story\spt\bt0315.spt
 うん、もちろんやるよ。,"Yes, of course I'll do it.",romfs\story\spt\bt0315.spt
 タルヘイ,"northern snakehead (species of fish, Channa argus)",romfs\story\spt\bt0315.spt
@@ -143,14 +133,11 @@ jp,en,file
 モモタロウ,"Sirius (star in the constellation Ursa Minor, one of the 28 mansions)",romfs\story\spt\bt0377.spt
 生徒男1年_C,"Student male, 1st year_C",romfs\story\spt\bt0380.spt
 やる！,Do!,romfs\story\spt\bt0381.spt
-イチル,ethyl,romfs\story\spt\bt0381.spt
+イチル,Ichiru,romfs\story\spt\bt0381.spt
 え～ロボトル？,Eh~ Lobottle?,romfs\story\spt\bt0384.spt
 どうしよっかなー。,What should I do?,romfs\story\spt\bt0384.spt
-アヤ,renting a house in the same block of houses as somebody else,romfs\story\spt\bt0384.spt
 いいけど？,Okay?,romfs\story\spt\bt0387.spt
-マスミ,Japanese spindle tree (Euonymus sieboldianus),romfs\story\spt\bt0387.spt
 もちろんいいわよ、負けないよー！,"Of course it's fine, I won't lose!",romfs\story\spt\bt0390.spt
-ハナ,"rape (seed oil plant, Brassica campestris)",romfs\story\spt\bt0390.spt
 ロボトルね？,"Lobottle, right?",romfs\story\spt\bt0390.spt
 いいわ！,All right!,romfs\story\spt\bt0393.spt
 セン,stopper,romfs\story\spt\bt0393.spt
@@ -254,10 +241,8 @@ jp,en,file
 レスキュー部長,Rescue Director,romfs\story\spt\bt0500.spt
 はい、ぜひお願いします！,"Yes, please do!",romfs\story\spt\bt0506.spt
 わたしとですか？,With me?,romfs\story\spt\bt0506.spt
-アオイ,mallow (any plant of family Malvaceae),romfs\story\spt\bt0506.spt
 えっ、わたしとですかぁ？,"What, with me?",romfs\story\spt\bt0509.spt
 や～ん、どうしよっかな～。,"Ya~mmm, what should I do?",romfs\story\spt\bt0509.spt
-サイカ,saika (Rangifer tarandus),romfs\story\spt\bt0509.spt
 わあ、もちろんやるロボ！　負けないロボ～！,"Wow, of course you do, Robo!　A robot that won't lose~!",romfs\story\spt\bt0512.spt
 ロボトルロボか？,Robotlrobot?,romfs\story\spt\bt0512.spt
 はっ、ロボトルでありますね！,"Ha, it is a robattle, isn't it?",romfs\story\spt\bt0527.spt
@@ -276,13 +261,11 @@ jp,en,file
 左腕,left arm,romfs\story\spt\btl_move_test.spt
 終了,end,romfs\story\spt\btl_move_test.spt
 頭,head,romfs\story\spt\btl_move_test.spt
-　　メダロット　,　　medallion,romfs\story\spt\btlset_test.spt
 　　右うで　,　　right hand,romfs\story\spt\btlset_test.spt
 　　左うで　,　　left arm,romfs\story\spt\btlset_test.spt
 　　戻る,　　return,romfs\story\spt\btlset_test.spt
 　　脚部　,　　leg,romfs\story\spt\btlset_test.spt
 　　頭　,　　head,romfs\story\spt\btlset_test.spt
-＞　メダロット　,＞ Medalot,romfs\story\spt\btlset_test.spt
 ＞　右うで　,＞ Right arm,romfs\story\spt\btlset_test.spt
 ＞　左うで　,＞ Left arm,romfs\story\spt\btlset_test.spt
 ＞　戻る,> Back,romfs\story\spt\btlset_test.spt
@@ -490,7 +473,6 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 生徒男1年_E,"Student male, 1st year_E",romfs\story\spt\f01_050_117_00.spt
 生徒男1年_E_メダ,"Student man, 1st year_E_Med.",romfs\story\spt\f01_050_117_00.spt
 生徒男1年_E付近,"Student male, 1st year_near E",romfs\story\spt\f01_050_117_00.spt
-ミオ,mio,romfs\story\spt\f01_055_150_00.spt
 ミオ_メダ,Mio_Meda,romfs\story\spt\f01_055_150_00.spt
 ミオとアオイF01,Mio and Aoi F01,romfs\story\spt\f01_055_150_00.spt
 左出口前,Before left exit,romfs\story\spt\f01_055_150_00.spt
@@ -717,7 +699,6 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 そうそう、パーツ転送といえば…,"Oh yeah, and speaking of parts transfers...",romfs\story\spt\f02_015_161_00_t023.spt
 トランスパーツ…　ですか？,Transparts...?,romfs\story\spt\f02_015_161_00_t023.spt
 トランスパーツは使ってる？,Do you use trans parts?,romfs\story\spt\f02_015_161_00_t023.spt
-ロボトル中のメダロットにパーツを転送する機能さ。,It's a function that transfers parts to the Medarot in the Robotl.,romfs\story\spt\f02_015_161_00_t023.spt
 最新の公式ルールで採用されたやつ。,The one adopted in the latest official rules.,romfs\story\spt\f02_015_161_00_t023.spt
 転送できるのはロボトル中にいちど、リーダーだけ。,Only the leader can transfer once during the lot.,romfs\story\spt\f02_015_161_00_t023.spt
 じゃちょっと練習してみようか。,Then let's practice a little.,romfs\story\spt\f02_015_161_00_t031.spt
@@ -727,7 +708,7 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 は、はあ…,"Ha, ha...",romfs\story\spt\f02_015_161_00_t031.spt
 わかった？,Do you understand?,romfs\story\spt\f02_015_161_00_t031.spt
 今はピンと来なくても使ってるうちに,"Even if it doesn't feel right now, as you use it.",romfs\story\spt\f02_015_161_00_t031.spt
-さて、ロボトルできそうなメダロットは～,"Now, the medallions that could be lobotomized are",romfs\story\spt\f02_016_162_00_t011.spt
+さて、ロボトルできそうなメダロットは～,"Now, the medabots that could be lobotomized are",romfs\story\spt\f02_016_162_00_t011.spt
 …聞き込み調査？,...Interviews?,romfs\story\spt\f02_016_162_00_t012.spt
 うん、こんなもんだね。,"Yeah, it's like this.",romfs\story\spt\f02_016_162_00_t012.spt
 さあ行こう。,Let's go.,romfs\story\spt\f02_016_162_00_t012.spt
@@ -735,7 +716,6 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 それそれ。,That's it.,romfs\story\spt\f02_016_162_00_t012.spt
 なんだっけ、ええと。,"What was it, uh.",romfs\story\spt\f02_016_162_00_t012.spt
 アイドル部の女の子が怪しいんだっけ。,I thought the girls in the idol club were suspicious.,romfs\story\spt\f02_016_162_00_t012.spt
-メダロット誘拐犯を探すんだよね。,You're looking for the Medalot kidnappers.,romfs\story\spt\f02_016_162_00_t012.spt
 ストッパー,stopper,romfs\story\spt\f02_020_163_00.spt
 ストッパー戻り位置,Stopper return position,romfs\story\spt\f02_020_163_00.spt
 生徒女3年_F,"Student Woman, 3rd year_F",romfs\story\spt\f02_020_163_00.spt
@@ -977,8 +957,6 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 今は学校の倉庫みたいになってる。,Now it looks like a school warehouse.,romfs\story\spt\f02_090_200_00_t002.spt
 当時、使われていた施設らしいね。,I heard it was a facility used at the time.,romfs\story\spt\f02_090_200_00_t002.spt
 当時？,At the time?,romfs\story\spt\f02_090_200_00_t002.spt
-野良メダロットか…,Stray medallions...,romfs\story\spt\f02_090_200_00_t002.spt
-野良メダロットが入り込んでいたりするね。,I see some stray medallions entering the area.,romfs\story\spt\f02_090_200_00_t002.spt
 リョウマ0,Ryoma 0,romfs\story\spt\f02_100_210_00.spt
 リョウマ登場,Appearance of Ryoma,romfs\story\spt\f02_100_210_00.spt
 止まれ。,Stop.,romfs\story\spt\f02_100_210_00_t001.spt
@@ -1070,7 +1048,6 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 行こう。,Let's go.,romfs\story\spt\f02_110_210_00_t008.spt
 あと、なにが足りないんですか？,What else is missing?,romfs\story\spt\f02_110_210_00_t101.spt
 あとは、テストをして結果に納得できれば――,"Now, if we can just get the test done and be satisfied with the results--",romfs\story\spt\f02_110_210_00_t101.spt
-あの、確かこのメダロット,"Um, I'm pretty sure this medallion",romfs\story\spt\f02_110_210_00_t101.spt
 あれからどれだけ経ったと思ってるんだ。,How long do you think it's been since then?,romfs\story\spt\f02_110_210_00_t101.spt
 いや…,No...,romfs\story\spt\f02_110_210_00_t101.spt
 こんどはなんの用だ。,What do you want this time?,romfs\story\spt\f02_110_210_00_t101.spt
@@ -1165,8 +1142,6 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 まさかまたオレひとりで運べって――,You don't expect me to carry it all by myself again...,romfs\story\spt\f02_120_210_30_t021.spt
 オールが見当たらないね。,I don't see any oars.,romfs\story\spt\f02_120_210_30_t021.spt
 心強いと思うんだよねー。,I think it's reassuring.,romfs\story\spt\f02_120_210_30_t021.spt
-水に強いパワータイプのメダロットがいれば,If there is a water-resistant power type medallion,romfs\story\spt\f02_120_210_30_t021.spt
-あとは引っ張ってくれるメダロットさえいれば…,Now if only we had a medallion to pull it together...,romfs\story\spt\f02_120_210_40_t011.spt
 ボートだ。,Boat.,romfs\story\spt\f02_120_210_40_t011.spt
 水路スタート,Waterway start,romfs\story\spt\f02_130_210_00.spt
 あっはっは。,Ha-ha-ha.,romfs\story\spt\f02_130_210_00_t001.spt
@@ -1194,7 +1169,6 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 メダチェンジできる,I can do a med change.,romfs\story\spt\f02_130_210_00_t002.spt
 メダチェンジ機体が手に入ったら,If you get a med-change aircraft.,romfs\story\spt\f02_130_210_00_t002.spt
 メダロッチを設定しといたからさ。,I've set up a medalloch.,romfs\story\spt\f02_130_210_00_t002.spt
-メダロットは決まってるからね。,The medallion is a given.,romfs\story\spt\f02_130_210_00_t002.spt
 使ってみようぜ、な？,"Let's use it, huh?",romfs\story\spt\f02_130_210_00_t002.spt
 残念ながらメダチェンジは無理だよ。,"Unfortunately, you can't get a med change.",romfs\story\spt\f02_130_210_00_t002.spt
 潜水艦,submarine,romfs\story\spt\f02_130_210_00_t002.spt
@@ -1211,12 +1185,11 @@ NPC下校3,NPC Disembarkation 3,romfs\story\spt\f00_000_900_00.spt
 ま、そのときはそのときでさ。,"Well, I'll take my chances then.",romfs\story\spt\f02_130_210_00_t003.spt
 わかった、連れて行ってやろう。,"All right, I'll take you there.",romfs\story\spt\f02_130_210_00_t003.spt
 助けに行きたいけど、オールなしのボートで,"I'd love to help, but I'm in a boat without oars.",romfs\story\spt\f02_130_210_00_t003.spt
-実はさっき、クラスメイトのメダロットが,"Actually, just now, a classmate of mine, Medarotto.",romfs\story\spt\f02_130_210_00_t003.spt
+実はさっき、クラスメイトのメダロットが,"Actually, just now, a classmate of mine, Medabot.",romfs\story\spt\f02_130_210_00_t003.spt
 待て。,Wait.,romfs\story\spt\f02_130_210_00_t003.spt
 なにかないかな。ボートとか…,I wonder if there is anything. A boat or...,romfs\story\spt\f02_130_210_00_t101.spt
 下は急流…　飛び込むのは無謀すぎる。,The rapids below... too reckless to jump in.,romfs\story\spt\f02_130_210_00_t101.spt
 ボートは見つけたけど、流れが急すぎる。,"I found a boat, but the current is too steep.",romfs\story\spt\f02_130_210_00_t201.spt
-水中で引っ張ってくれるメダロットさえいれば…,If only we had a medallion to pull us underwater...,romfs\story\spt\f02_130_210_00_t201.spt
 おとなしくエレベータを使おう。,Let's use the elevator quietly.,romfs\story\spt\f02_130_210_00_t301.spt
 下は急流…　飛び込むのはもうイヤだな。,Rapids below... I don't want to jump in anymore.,romfs\story\spt\f02_130_210_00_t301.spt
 ゴムボート上陸,Rubber Boat Landing,romfs\story\spt\f02_130_211_10.spt
@@ -1538,7 +1511,6 @@ PC席へ,Go to the PC seat,romfs\story\spt\f03_010_161_00.spt
 本物！？,The real thing!,romfs\story\spt\f03_010_161_00_t003.spt
 運がよければ、そこらの茂みに落ちていたり、な。,"If you're lucky, you'll find them in the bushes.",romfs\story\spt\f03_010_161_00_t003.spt
 部活で得たものの持ち出し売買はＮＧだよ。,It's not a good idea to take what you get from club activities and buy and sell it.,romfs\story\spt\f03_010_161_00_t003.spt
-野良メダロットを倒したときに拾えたり,You can pick it up when you defeat a stray medallion or,romfs\story\spt\f03_010_161_00_t003.spt
 あ？,Oh?,romfs\story\spt\f03_010_161_00_t004.spt
 ちょっとはヤル気になってきたでしょ～？,"You're starting to get a little excited, aren't you?",romfs\story\spt\f03_010_161_00_t004.spt
 ではではリョウマくん、あとはよろしく。,"Well then, Ryoma-kun, take care of the rest.",romfs\story\spt\f03_010_161_00_t004.spt
@@ -1708,10 +1680,8 @@ f03リョウマnpc配置,f03 leoma npc placement,romfs\story\spt\f03_030_230_10.
 あんたの知り合いなの？,Do I know you?,romfs\story\spt\f03_050_230_00_t002.spt
 こいつと,with this guy,romfs\story\spt\f03_050_230_00_t002.spt
 この学校に来る、ほんの少し前に,Just a few minutes before I came to this school.,romfs\story\spt\f03_050_230_00_t002.spt
-すごくよく似たメダロットに会ったんだけど…,I met a medallion that looked very similar...,romfs\story\spt\f03_050_230_00_t002.spt
-だったらメダロット違いじゃないのか？,"If so, isn't that the wrong medallion?",romfs\story\spt\f03_050_230_00_t002.spt
 つ、強い…！,"One, strong...!",romfs\story\spt\f03_050_230_00_t002.spt
-なあお前、あのときのメダロットだろ？,"Hey, you were Medarotto back then, right?",romfs\story\spt\f03_050_230_00_t002.spt
+なあお前、あのときのメダロットだろ？,"Hey, you were Medabot back then, right?",romfs\story\spt\f03_050_230_00_t002.spt
 ふつうに考えたら、そうですよね。,"Usually, that's the case.",romfs\story\spt\f03_050_230_00_t002.spt
 わからない…,I don't know...,romfs\story\spt\f03_050_230_00_t002.spt
 今、気がついたけど,I just realized something.,romfs\story\spt\f03_050_230_00_t002.spt
@@ -1835,7 +1805,6 @@ f03リョウマnpc配置,f03 leoma npc placement,romfs\story\spt\f03_030_230_10.
 メダリアってのは、どうやら,Medalia seems to be the way to go.,romfs\story\spt\f03_090_161_00_t002.spt
 メダリアのありかがわかる…　ということか？,I know where the medallias are... you mean?,romfs\story\spt\f03_090_161_00_t002.spt
 メダリア探知機の設計図。,Blueprint for a medallion detector.,romfs\story\spt\f03_090_161_00_t002.spt
-メダロット工学はゼッタイとして――,Medalot engineering is a zettaby--,romfs\story\spt\f03_090_161_00_t002.spt
 レーダーみたいなものか？,Like radar?,romfs\story\spt\f03_090_161_00_t002.spt
 世界中からエリートが集まってるんでしょ。,You have elites from all over the world.,romfs\story\spt\f03_090_161_00_t002.spt
 仕組みは？,How does it work?,romfs\story\spt\f03_090_161_00_t002.spt
@@ -2034,7 +2003,6 @@ f03リョウマnpc配置,f03 leoma npc placement,romfs\story\spt\f03_030_230_10.
 戦わないよ。,I won't fight.,romfs\story\spt\f04_030_115_00_t030.spt
 いつからいっしょなの？,How long have you been together?,romfs\story\spt\f04_030_115_00_t031.spt
 う～、ちょっと待って混乱してきた。,"Ummm, wait a minute, I'm getting confused.",romfs\story\spt\f04_030_115_00_t031.spt
-このメダロットくん、あなたのパートナー？,Is this Mr. Medarotto your partner?,romfs\story\spt\f04_030_115_00_t031.spt
 この学院に来てから出会ったから…,Since I came to this academy and met...,romfs\story\spt\f04_030_115_00_t031.spt
 そ、それはまあ、いろいろあって,"Well, that's, well, there's a lot going on.",romfs\story\spt\f04_030_115_00_t031.spt
 そうだけど。,"Yes, but.",romfs\story\spt\f04_030_115_00_t031.spt
@@ -2043,7 +2011,6 @@ f03リョウマnpc配置,f03 leoma npc placement,romfs\story\spt\f03_030_230_10.
 ちょっと聞きたいんだけどぉ。,Let me ask you something.,romfs\story\spt\f04_030_115_00_t031.spt
 つい最近だよ。,Just recently.,romfs\story\spt\f04_030_115_00_t031.spt
 つまり,in other words,romfs\story\spt\f04_030_115_00_t031.spt
-つまりあなたと、以前のメダロットは…,"In other words, you and the previous medallion...",romfs\story\spt\f04_030_115_00_t031.spt
 どうしたのよ。,What's wrong?,romfs\story\spt\f04_030_115_00_t031.spt
 な、なんでしょうか。,What is it?,romfs\story\spt\f04_030_115_00_t031.spt
 のこと？,of?,romfs\story\spt\f04_030_115_00_t031.spt
@@ -2059,7 +2026,6 @@ f03リョウマnpc配置,f03 leoma npc placement,romfs\story\spt\f03_030_230_10.
 イモウト！？,Imouto!,romfs\story\spt\f04_030_115_00_t032.spt
 サイカさぁん！,Saika!,romfs\story\spt\f04_030_115_00_t032.spt
 今はあいつ、妹のパートナーだし。,Now that guy is my sister's partner.,romfs\story\spt\f04_030_115_00_t032.spt
-以前のメダロットとは、まったく関わりがない…と,I have no connection with the previous medallions....,romfs\story\spt\f04_030_115_00_t032.spt
 妹も関係してるの！？,My sister is involved too!,romfs\story\spt\f04_030_115_00_t032.spt
 質問ばっかで、ワケわかんないよ。,"You ask so many questions, I don't understand.",romfs\story\spt\f04_030_115_00_t032.spt
 ありがとうございますぅ！,Thank you very much!,romfs\story\spt\f04_030_115_00_t033.spt
@@ -2317,8 +2283,7 @@ f04主人公1,f04 protagonist 1,romfs\story\spt\f04_037_230_00.spt
 なによその意外そーな反応は。,What a surprising reaction.,romfs\story\spt\f04_050_131_20_t051.spt
 勝ったのは探検部！,The winner was the Exploration Club!,romfs\story\spt\f04_050_131_20_t051.spt
 武術部、破れました！,"Wushu club, torn!",romfs\story\spt\f04_050_131_20_t051.spt
-マイン,mine,romfs\story\spt\f04_050_131_30.spt
-マイン_メダ,Mine_Meda,romfs\story\spt\f04_050_131_30.spt
+マイン_メダ,Mein_Meda,romfs\story\spt\f04_050_131_30.spt
 メダリング右4,Medallion right 4,romfs\story\spt\f04_050_131_30.spt
 メダ研1,Meda Lab 1,romfs\story\spt\f04_050_131_30.spt
 メダ研1_メダ,MEDA Lab 1_MEDA,romfs\story\spt\f04_050_131_30.spt
@@ -2331,8 +2296,6 @@ f04主人公1,f04 protagonist 1,romfs\story\spt\f04_037_230_00.spt
 １回戦いちの番狂わせを演じたチームの登場です。,Here comes the team that took the first-round number one spot.,romfs\story\spt\f04_050_131_30_t022.spt
 まかせろー！,I'll leave it to you!,romfs\story\spt\f04_050_131_30_t023.spt
 行くぜ！,Let's go!,romfs\story\spt\f04_050_131_30_t023.spt
-メダロットの知識にかけては,For his knowledge of medallions.,romfs\story\spt\f04_050_131_30_t032.spt
-メダロット研究会チーム！,Medalot Study Group Team!,romfs\story\spt\f04_050_131_30_t032.spt
 右に出る者のない頭脳集団！,A group of brains with no one on the right!,romfs\story\spt\f04_050_131_30_t032.spt
 練りに練った作戦と堅実な戦いぶりで,With a well-thought-out strategy and solid fighting style,romfs\story\spt\f04_050_131_30_t032.spt
 ２回戦へとコマを進めてきました。,We have advanced to the second round.,romfs\story\spt\f04_050_131_30_t032.spt
@@ -2472,7 +2435,6 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 メタビーを倒せ１,Defeat Metabee 1,romfs\story\spt\f05_035_230_00.spt
 くっそー！,Damn!,romfs\story\spt\f05_035_230_00_t011.spt
 ごめんマスター！,Sorry Master!,romfs\story\spt\f05_035_230_00_t021.spt
-バストロイヤー,Bustolier.,romfs\story\spt\f05_035_230_00_t021.spt
 帰んぞ！,I'm not going home!,romfs\story\spt\f05_035_230_00_t021.spt
 気にすんな！,Don't worry about it!,romfs\story\spt\f05_035_230_00_t021.spt
 …あっ。,...Oh.,romfs\story\spt\f05_035_230_10_t011.spt
@@ -2483,7 +2445,7 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 きみもなの？,You too?,romfs\story\spt\f05_035_230_10_t021.spt
 きみもサイカさんと、その…,"You too, Mr. Saika, and your...",romfs\story\spt\f05_035_230_10_t021.spt
 ぜんぜんハナシが見えない。,I can't see the whole story.,romfs\story\spt\f05_035_230_10_t021.spt
-そのメダロットを倒したら付き合ってもらえるんだ。,"If you beat that medallion, you get to go out with them.",romfs\story\spt\f05_035_230_10_t021.spt
+そのメダロットを倒したら付き合ってもらえるんだ。,"If you beat that medabot, you get to go out with them.",romfs\story\spt\f05_035_230_10_t021.spt
 だれと？,With whom?,romfs\story\spt\f05_035_230_10_t021.spt
 ち、ちがうの？,"No, no?",romfs\story\spt\f05_035_230_10_t021.spt
 サ、,"Sa,",romfs\story\spt\f05_035_230_10_t021.spt
@@ -2492,11 +2454,9 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 思い切って告白したら、こう言われたんだ。,"I took the plunge and confessed, and this is what he told me.",romfs\story\spt\f05_035_230_10_t021.spt
 とってもロボトルが強いヒトなんですぅ！,He is a very strong person!,romfs\story\spt\f05_035_230_10_t022.spt
 わたしの理想のタイプは,My ideal type is,romfs\story\spt\f05_035_230_10_t022.spt
-この島でいちばん強いメダロットに勝てるヒトとなら,If you can beat the strongest medallion on the island...,romfs\story\spt\f05_035_230_10_t023.spt
 よろこんでお付き合いしちゃうんですけどぉ！,I would gladly go out with them!,romfs\story\spt\f05_035_230_10_t023.spt
 …うん。,...Yeah.,romfs\story\spt\f05_035_230_10_t024.spt
 …って。,....,romfs\story\spt\f05_035_230_10_t024.spt
-いちばん強いメダロットがいる場所を聞いたら,I asked him where the strongest medallion was.,romfs\story\spt\f05_035_230_10_t024.spt
 いや、ぜんぜんナルホドじゃないんだけど。,"No, it's not Narhodo at all.",romfs\story\spt\f05_035_230_10_t024.spt
 ここだって言われたんだ？,Did they tell you it was here?,romfs\story\spt\f05_035_230_10_t024.spt
 さあ…　それはわからないけど。,I don't know... I don't know about that.,romfs\story\spt\f05_035_230_10_t024.spt
@@ -2728,7 +2688,6 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 わ～い！,Wow!,romfs\story\spt\f05_090_154_00_t024.spt
 シミュレータです。,Simulator.,romfs\story\spt\f05_090_154_00_t024.spt
 ットワークが形成される際その神経回路がユニット外,"When a network is formed, its neural circuits are outside the unit.",romfs\story\spt\f05_090_154_00_t024.spt
-パーツとティンペットの接続時にメダロットの神経ネ,Medallion nerve ne when connecting parts and tin pets.,romfs\story\spt\f05_090_154_00_t024.spt
 マインちゃんこそ、ぼくの求めていたヒトだ。,Mine is exactly what I was looking for.,romfs\story\spt\f05_090_154_00_t024.spt
 メダリアに興味ある？,Interested in medalia?,romfs\story\spt\f05_090_154_00_t024.spt
 入ります～。,I'm in~.,romfs\story\spt\f05_090_154_00_t024.spt
@@ -2755,7 +2714,6 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 テスト返却1,Test Return 1,romfs\story\spt\f05_100_117_00.spt
 テスト返却主人公,Test return hero,romfs\story\spt\f05_100_117_00.spt
 返却1戻り,Return 1 return,romfs\story\spt\f05_100_117_00.spt
-…シンタロウくん。,...Shintaro.,romfs\story\spt\f05_100_117_00_t011.spt
 それではテストを返しま～す。,Now I will return the test.,romfs\story\spt\f05_100_117_00_t011.spt
 イチルさん。,Mr. Itil.,romfs\story\spt\f05_100_117_00_t012.spt
 がやがや…,The crowd is...,romfs\story\spt\f05_100_117_00_t021.spt
@@ -2765,7 +2723,6 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 えっ？　なんです？,What?　What is it?,romfs\story\spt\f05_100_117_00_t023.spt
 だから、落ち込むのはそのあとになさい。,"So, be depressed after that.",romfs\story\spt\f05_100_117_00_t023.spt
 な…　なんですか？,What... what is it?,romfs\story\spt\f05_100_117_00_t023.spt
-なげくのは、メダロット面接のあとになさい。,"Throw a fit, but only after the Medallion interview.",romfs\story\spt\f05_100_117_00_t023.spt
 マスターのきみたちは、もちろん同席できません。,"The master's boys, of course, cannot be present.",romfs\story\spt\f05_100_117_00_t023.spt
 メダロットとの個別面談期間に入ります。,You will enter a period of individual meetings with Medarotto.,romfs\story\spt\f05_100_117_00_t023.spt
 メダロット面接は期末試験項目のひとつです。,The medallion interview is one of the final examination items.,romfs\story\spt\f05_100_117_00_t023.spt
@@ -3043,17 +3000,12 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 イメージどおりじゃないか。,Isn't it just as I imagined?,romfs\story\spt\f05_180_210_00_t012.spt
 オレの背中を任せられるのはリュウセイだけだ！,Only Ryusei can be trusted with my back!,romfs\story\spt\f05_180_210_00_t012.spt
 コンゴー,Congo,romfs\story\spt\f05_180_210_00_t012.spt
-サムライ,samurai,romfs\story\spt\f05_180_210_00_t012.spt
 ザクロ,garlic chive (Allium tuberosum),romfs\story\spt\f05_180_210_00_t012.spt
 ザクロのマスター、お菓子なんて作るの？,"Pomegranate master, do you make any sweets?",romfs\story\spt\f05_180_210_00_t012.spt
 シンライ？,Sinlai?,romfs\story\spt\f05_180_210_00_t012.spt
 ジジイかよ！,You're an old man!,romfs\story\spt\f05_180_210_00_t012.spt
-ジャスパー,jasper,romfs\story\spt\f05_180_210_00_t012.spt
 ニンゲンは周りにほかの人間がいるかいないかで,Ningen depends on whether other people are around or not.,romfs\story\spt\f05_180_210_00_t012.spt
 フローラ,flora,romfs\story\spt\f05_180_210_00_t012.spt
-プリティプライン,Pretty Prime,romfs\story\spt\f05_180_210_00_t012.spt
-ホークダカー,Hawk Dakar,romfs\story\spt\f05_180_210_00_t012.spt
-レッドマタドール,red matador (Mallotus villosus),romfs\story\spt\f05_180_210_00_t012.spt
 ワタシはそれだけじゃイヤですぅ。,I don't want to do just that.,romfs\story\spt\f05_180_210_00_t012.spt
 仲がいいから、いいマスターってのは,"I'm a good friend, so I'm not a good master.",romfs\story\spt\f05_180_210_00_t012.spt
 仲良くはないのかも。,Maybe they don't get along.,romfs\story\spt\f05_180_210_00_t012.spt
@@ -5750,7 +5702,6 @@ PC席後,post-PC,romfs\story\spt\f05_010_151_00.spt
 ヘリか？,A helicopter?,romfs\story\spt\f10_020_101_00_t011.spt
 どこにさ？,Where?,romfs\story\spt\f10_020_101_00_t012.spt
 どんどん近づいてくるよー！,I'm getting closer and closer!,romfs\story\spt\f10_020_101_00_t012.spt
-セイテイキング,staying,romfs\story\spt\f10_020_101_00_t012.spt
 上だー！,Above!,romfs\story\spt\f10_020_101_00_t012.spt
 屋上…,Rooftop...,romfs\story\spt\f10_020_101_00_t012.spt
 着陸？,Landing?,romfs\story\spt\f10_020_101_00_t012.spt
@@ -6110,22 +6061,8 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 どいて！！,Move!,romfs\story\spt\f11_050_108_00_t013.spt
 校長せんせ――,"Principal, sir...",romfs\story\spt\f11_050_108_00_t013.spt
 ええ、脳波も正常…,"Yeah, brain waves are normal...",romfs\story\spt\f11_050_108_00_t014.spt
-ヒールエンジェル,heal angelfish,romfs\story\spt\f11_050_108_00_t014.spt
 疲れがたまっただけね、良かった…,"I'm just tired, thank God...",romfs\story\spt\f11_050_108_00_t014.spt
 神経回路は正常よ。,Neural circuits are normal.,romfs\story\spt\f11_050_108_00_t014.spt
-その他の部は,The other sections are,romfs\story\spt\f11_060_108_00_t011.spt
-また、少数ではあるが,"In addition, a small number of",romfs\story\spt\f11_060_108_00_t011.spt
-レスキュー部は校門に、メダロット研究会は,The Rescue Club is at the school gate and the Medalot Study Group is at the,romfs\story\spt\f11_060_108_00_t011.spt
-以上だ。,Above.,romfs\story\spt\f11_060_108_00_t011.spt
-全校生徒に伝える。,Communicate to all students.,romfs\story\spt\f11_060_108_00_t011.spt
-変化があったらまた知らせる。,I'll let you know if there are any changes.,romfs\story\spt\f11_060_108_00_t011.spt
-寮前にて侵入メダロットを迎撃してくれ。,Intercept the invading medallion in front of the dormitory.,romfs\story\spt\f11_060_108_00_t011.spt
-当面それぞれの判断で行動してほしい。,I hope that each of you will act according to your own judgment for the time being.,romfs\story\spt\f11_060_108_00_t011.spt
-教室の窓等から入り込んだ個体も確認されている。,Some individuals have been observed entering through classroom windows.,romfs\story\spt\f11_060_108_00_t011.spt
-校内に侵入した野良メダロットを,A stray medallion that broke into the school.,romfs\story\spt\f11_060_108_00_t011.spt
-正門そして寮の裏手の２か所だ。,There are two locations: the main gate and the back of the dormitory.,romfs\story\spt\f11_060_108_00_t011.spt
-現在、野良メダロットの主な侵入ポイントは,"Currently, the main entry points for stray medallions are",romfs\story\spt\f11_060_108_00_t011.spt
-見つけしだい討伐してほしい。,I want you to take them down as soon as you find them.,romfs\story\spt\f11_060_108_00_t011.spt
 レスキュー,rescue,romfs\story\spt\f11_070_101_00.spt
 レスキュー部位置,Rescue section location,romfs\story\spt\f11_070_101_00.spt
 レスキュー部前,In front of Rescue Dept.,romfs\story\spt\f11_070_101_00.spt
@@ -6294,7 +6231,7 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 このゆれは…っ！！,This shaking...!,romfs\story\spt\f11_140_101_00_t052.spt
 ※カメラ追い越して,※Overtake the camera.,romfs\story\spt\f11_140_113_00_t011.spt
 ※レスキュー部を取り囲むセレクト隊ロボ（ほか）,※セレクト隊 surrounding the Rescue Department (and others),romfs\story\spt\f11_140_113_00_t011.spt
-※ロボトルへ,※To Robottle,romfs\story\spt\f11_140_113_00_t011.spt
+※ロボトルへ,※To Robattle,romfs\story\spt\f11_140_113_00_t011.spt
 ※主人公、野良とレスキュー部の間に割って入って,"※Protagonist, breaking between the stray and the rescue department.",romfs\story\spt\f11_140_113_00_t011.spt
 ※入ったらすぐ,※As soon as you enter,romfs\story\spt\f11_140_113_00_t011.spt
 ※駆けつけた主人公たちをカメラに収めて,※Capturing the heroes who rushed to the scene on camera.,romfs\story\spt\f11_140_113_00_t011.spt
@@ -6303,7 +6240,7 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 シフォン,chiffon,romfs\story\spt\f11_140_113_00_t011.spt
 レスキュー部ライバル,Rescue Department Rivals,romfs\story\spt\f11_140_113_00_t011.spt
 ※レスキュー部長、寮前（ポータル）方面に,"※Director of Rescue, in front of the dormitory (portal).",romfs\story\spt\f11_140_113_00_t021.spt
-※ロボトル勝利後,※After the robottle victory,romfs\story\spt\f11_140_113_00_t021.spt
+※ロボトル勝利後,※After the robattle victory,romfs\story\spt\f11_140_113_00_t021.spt
 ※侵入してくるメダロット複数,※Multiple medallions coming in.,romfs\story\spt\f11_140_113_00_t021.spt
 ※正面に振り返り,※Turn around to the front,romfs\story\spt\f11_140_113_00_t021.spt
 ※連戦想定,※Assumption of a series of battles,romfs\story\spt\f11_140_113_00_t021.spt
@@ -6623,7 +6560,6 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 どうしたのナビ！？,"What's wrong, Navi!",romfs\story\spt\f11_250_953_00_t013.spt
 なっ、なんでっ？,What? Why?,romfs\story\spt\f11_250_953_00_t013.spt
 なんどもなんども倒したじゃないか…っ！,You beat me again and again and again...!,romfs\story\spt\f11_250_953_00_t013.spt
-ナビ・コミュン,Navi Komun,romfs\story\spt\f11_250_953_00_t013.spt
 疲れたよ、もう…,I'm tired. I'm tired of...,romfs\story\spt\f11_250_953_00_t013.spt
 ジャスパー！,Jasper!,romfs\story\spt\f11_250_953_00_t022.spt
 フローラ…！？,Flora...!,romfs\story\spt\f11_250_953_00_t022.spt
@@ -6912,7 +6848,7 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 あっ、ちょっ…,"Oh, hey...",romfs\story\spt\free06_01_02_03_t022.spt
 そんなに早く歩けないってば、もうっ。,"I can't walk that fast, damn it.",romfs\story\spt\free06_01_02_03_t022.spt
 イノシシじゃないのよ！,It's not a wild boar!,romfs\story\spt\free06_01_02_03_t022.spt
-※ロボトル後,※After robottle,romfs\story\spt\free06_01_02_03_t031.spt
+
 部室へ戻ろう。,Let's go back to the clubroom.,romfs\story\spt\free06_01_02_03_t031.spt
 音波データは手に入れた。,I got the sonic data.,romfs\story\spt\free06_01_02_03_t031.spt
 クエスト06_01_02_04,Quest 06_01_02_04,romfs\story\spt\free06_01_02_04.spt
@@ -7005,7 +6941,6 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 ちっ、またお前らか。,"Damn, it's you guys again.",romfs\story\spt\free06_02_01_02_t021.spt
 ゴキブリみてーにどこにでも現れやがって。,They show up everywhere like cockroaches.,romfs\story\spt\free06_02_01_02_t021.spt
 叩き出してやる！,I'm going to beat it out of you!,romfs\story\spt\free06_02_01_02_t022.spt
-あばよ！,Aba!,romfs\story\spt\free06_02_01_02_t031.spt
 く…っ。,Kuh....,romfs\story\spt\free06_02_01_02_t031.spt
 こんなところにアジトなんか建てた日にゃあ,If you build a hideout in a place like this...,romfs\story\spt\free06_02_01_02_t031.spt
 こんな場所お前らにくれてやるよ。,I'll give you guys this place.,romfs\story\spt\free06_02_01_02_t031.spt
@@ -7181,7 +7116,6 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 思いっきり海の中ね。,I'm in the ocean.,romfs\story\spt\free06_02_05_02_t011.spt
 潜水型メダロットで探すしかないな。,I'll have to look for it in a submersible medallion.,romfs\story\spt\free06_02_05_02_t011.spt
 行ってくるぜ！,I'm off!,romfs\story\spt\free06_02_05_02_t011.spt
-※ロボトル,※Robottle,romfs\story\spt\free06_02_05_02_t021.spt
 クエスト1,Quest 1,romfs\story\spt\free06_02_05_03.spt
 移動1,Movement 1,romfs\story\spt\free06_02_05_03.spt
 移動2,Movement 2,romfs\story\spt\free06_02_05_03.spt
@@ -7251,8 +7185,8 @@ out_メダ,OUT_MEDA,romfs\story\spt\f11_030_161_00.spt
 わたす,pass,romfs\story\spt\free08_01_02_02.spt
 オカルト1,Occult 1,romfs\story\spt\free08_01_02_02.spt
 クエスト08_01_02_02,Quest 08_01_02_02,romfs\story\spt\free08_01_02_02.spt
-サララ1,Salala 1,romfs\story\spt\free08_01_02_02.spt
-サララ2,Salala 2,romfs\story\spt\free08_01_02_02.spt
+サララ1,Sarara 1,romfs\story\spt\free08_01_02_02.spt
+サララ2,Sarara 2,romfs\story\spt\free08_01_02_02.spt
 サララ_メダ,Salalah_Medha,romfs\story\spt\free08_01_02_02.spt
 ベランダa前,Before balcony a,romfs\story\spt\free08_01_02_02.spt
 メダリアを…,Medalia...,romfs\story\spt\free08_01_02_02.spt
@@ -7379,7 +7313,6 @@ eArea.主人公の町：エリア２,eArea. Town of the main character: Area 2,r
 事務所へ自動始点,Automatic starting point to the office,romfs\story\spt\june_rom.spt
 探偵事務所扉,detective bureau door,romfs\story\spt\june_rom.spt
 提出内容,Submission details,romfs\story\spt\june_rom.spt
-新ロボトル試作,New Robottle prototype,romfs\story\spt\june_rom.spt
 画面テスト,Screen Test,romfs\story\spt\june_rom.spt
 １VS１（ねらいうち、メダ選択可）,"1 VS 1 (Neraireuchi, Meda selectable)",romfs\story\spt\june_rom.spt
 １VS１（最初：チャージ可）,1 VS 1 (first: chargeable),romfs\story\spt\june_rom.spt
@@ -7845,7 +7778,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 ていうか、現実にいるの？　ハッカーとか。,"I mean, are they real?　Or hackers?",romfs\story\spt\npc_f_1a_117_s05_t002.spt
 ハッカー！？,Hacker!,romfs\story\spt\npc_f_1a_117_s05_t002.spt
 知らないわよそんな人。,I don't know anyone like that.,romfs\story\spt\npc_f_1a_117_s05_t002.spt
-マゼンタキャット,magenta cat,romfs\story\spt\npc_f_1a_meda_000_s00_t001.spt
 はやく行かないとまた怒られちゃうニャ。,"If I don't go quickly, he will get angry at me again.",romfs\story\spt\npc_f_1a_meda_117_s03_t011.spt
 はやく行こマスター。,Quickly go master.,romfs\story\spt\npc_f_1a_meda_117_s03_t011.spt
 いいニャ！,Good nyah!,romfs\story\spt\npc_f_1a_meda_117_s04_t011.spt
@@ -7911,7 +7843,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 先生に聞いたら、メダロットといっしょの時間を,I asked my teacher if I could spend some time with Medarotto.,romfs\story\spt\npc_f_1d_150_s06_t011.spt
 夏休みに帰っちゃいけないんだろ。,You're not allowed to go home for summer vacation.,romfs\story\spt\npc_f_1d_150_s06_t011.spt
 授業もないのに、ヘンなのー。,"I don't even have classes, it's weird.",romfs\story\spt\npc_f_1d_150_s06_t011.spt
-リリーマドンナ,Lily Madonna,romfs\story\spt\npc_f_1d_meda_000_s00_t001.spt
 大会だって！,He said it was a convention!,romfs\story\spt\npc_f_1d_meda_117_s04_t011.spt
 楽しみだね～,I'm looking forward to it!,romfs\story\spt\npc_f_1d_meda_117_s04_t011.spt
 ダイエットってなに？,What is a diet?,romfs\story\spt\npc_f_1d_meda_150_s03_t011.spt
@@ -8111,7 +8042,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 ブレザーメイツ,Blazermates,romfs\story\spt\npc_f_2b_meda_000_s00_t001.spt
 こんどのＰＶはビーチで撮るの。,The next PV will be shot on the beach.,romfs\story\spt\npc_f_2b_meda_163_s01_t011.spt
 どんなセッティングにしようか悩んじゃうな～。,I can't decide what kind of setting to use!,romfs\story\spt\npc_f_2b_meda_163_s01_t011.spt
-さってとロボトルだロボトル！,"Let's see... Robottle, Robottle, Robottle!",romfs\story\spt\npc_f_2b_meda_163_s04_t011.spt
 今年はあばれちゃうゾ～！,"This year, I'm going to go crazy!",romfs\story\spt\npc_f_2b_meda_163_s04_t011.spt
 ず～っと船に乗ってた気がするよー。,I feel like I've been on a boat the whole time!,romfs\story\spt\npc_f_2b_meda_163_s06_t011.spt
 夏休み３日しかなかったんだ。,I only had three days of summer vacation.,romfs\story\spt\npc_f_2b_meda_163_s06_t011.spt
@@ -8159,7 +8089,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 変わりはないんですから！,There is no change!,romfs\story\spt\npc_f_2d_150_s06_t031.spt
 さっき校舎のほう、うるさくなかった？,Wasn't it noisy in the school building earlier?,romfs\story\spt\npc_f_2d_150_s10_t011.spt
 工事でも始めたのかな？,Did they start construction?,romfs\story\spt\npc_f_2d_150_s10_t011.spt
-ノワールカッツェ,noir cutlet,romfs\story\spt\npc_f_2d_meda_000_s00_t001.spt
 あたしオカルトわからないけど,I don't know anything about the occult.,romfs\story\spt\npc_f_2d_meda_150_s03_t011.spt
 マスターといっしょだから楽しいよ。,It's fun because I'm with the master.,romfs\story\spt\npc_f_2d_meda_150_s03_t011.spt
 マスターはオカルト研究会なの。,Master is an occultist.,romfs\story\spt\npc_f_2d_meda_150_s03_t011.spt
@@ -8452,8 +8381,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 地元のロボトル大会にも出てみたんだ。,I also went to a local robattle competition.,romfs\story\spt\npc_f_3e_meda_164_s06_t011.spt
 いちおう忠告しとくわ。,Just a word of advice.,romfs\story\spt\npc_f_3e2_150_s01_t011.spt
 この先、道がまーっすぐ続いてるけど…,"The road continues straight ahead, but...",romfs\story\spt\npc_f_3e2_150_s01_t011.spt
-なんにもないんだからね。,It's nothing.,romfs\story\spt\npc_f_3e2_150_s01_t011.spt
-行くだけムダよ。,You're wasting your time.,romfs\story\spt\npc_f_3e2_150_s01_t011.spt
 いや～んわたし寮にいなかったの見たかったな～！,I wish I could have seen it when I was not in the dormitory!,romfs\story\spt\npc_f_3e2_150_s03_t011.spt
 ほらここ、ムダに広いし部屋の間取りも同じだし。,"See, here, it's unnecessarily large and the room layout is the same.",romfs\story\spt\npc_f_3e2_150_s03_t011.spt
 ま、今回はなにもヒガイはなかったみたいだけど。,"Well, it seems that this time there were no problems.",romfs\story\spt\npc_f_3e2_150_s03_t011.spt
@@ -8491,9 +8418,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 １年もたたずにね。,In less than a year.,romfs\story\spt\npc_f_3e2_150_s06_t021.spt
 スズネがりりしくてかっこいい？,Suzune is sleek and cool?,romfs\story\spt\npc_f_3e2_150_s06_t031.spt
 知らなきゃそう見えるかもね…,"If I didn't know any better, it might look that way...",romfs\story\spt\npc_f_3e2_150_s06_t031.spt
-オーロラクイーン,Aurora Queen,romfs\story\spt\npc_f_3e2_meda_000_s00_t001.spt
-うっかりよそ見してるとぶつかっちゃうヨ！,"If you look away, you'll bump into them!",romfs\story\spt\npc_f_3e2_meda_150_s01_t011.spt
-この道をまーっすぐ歩くとゴミ箱があるヨ！,"If you walk straight down this road, you will find a trash can!",romfs\story\spt\npc_f_3e2_meda_150_s01_t011.spt
 …って、ずっとチューコクしてきたのに,I've been chukking it up for a long time.,romfs\story\spt\npc_f_3e2_meda_150_s03_t011.spt
 だれかがしまっちゃったのかナ？,Did someone put it away?,romfs\story\spt\npc_f_3e2_meda_150_s03_t011.spt
 アブナいから,for no reason at all,romfs\story\spt\npc_f_3e2_meda_150_s03_t011.spt
@@ -8861,8 +8785,7 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 つらいときも悲しいときもランララ～ン♪,"Run, run, run, run, run, run, run, run, run, run, run, run, run, run, run, run, run, run!",romfs\story\spt\npc_m_1c_meda_000_s06_t011.spt
 日課なのさランララ～ン♪,It's part of the routine.,romfs\story\spt\npc_m_1c_meda_000_s08_t011.spt
 どんなにつかれてたってランララ～ン♪,No matter how tired I am.,romfs\story\spt\npc_m_1c_meda_000_s10_t011.spt
-ぼくはロボトルちょっと苦手さ。,I'm not a fan of Robottle.,romfs\story\spt\npc_m_1c_meda_117_s04_t011.spt
-ジョウロで水まくほうが得意さあ。,I'm better at watering with a jar.,romfs\story\spt\npc_m_1c_meda_117_s04_t011.spt
+
 これからヨットで沖まで航海に出るんだ。,We're about to sail offshore on a yacht.,romfs\story\spt\npc_m_1c2_500_s03_t011.spt
 ぼくたちはマリンスポーツ部だよ。,We are the Marine Sports Club.,romfs\story\spt\npc_m_1c2_500_s03_t011.spt
 センパイたち遅いなあ…,You guys are late...,romfs\story\spt\npc_m_1c2_500_s03_t011.spt
@@ -8895,7 +8818,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 強い野良メダが持ってたりするからねえ。,It's just that some strong wild medias have it.,romfs\story\spt\npc_m_1d_500_s08_t011.spt
 思っちゃうよね。,You would think.,romfs\story\spt\npc_m_1d_500_s08_t011.spt
 行くのが大変な場所に落ちてたり,They can fall in places that are hard to get to.,romfs\story\spt\npc_m_1d_500_s08_t011.spt
-ア・ゲダマー,A Gedamer.,romfs\story\spt\npc_m_1d_meda_000_s00_t001.spt
 経験と感覚だけで魚と勝負するのがダイゴミさ。,Daigomi is to compete with fish only by experience and sense.,romfs\story\spt\npc_m_1d_meda_116_s02_t011.spt
 釣りのときはパーツ能力を使わない主義なんだ。,I'm on the principle of not using my parts ability when fishing.,romfs\story\spt\npc_m_1d_meda_116_s02_t011.spt
 マスターがんばってるな。,"You're doing a great job, Master.",romfs\story\spt\npc_m_1d_meda_117_s04_t011.spt
@@ -8923,7 +8845,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 …なんて、まだ入るって決めてないか。,"...Oh my gosh, you haven't decided to go in yet, have you?",romfs\story\spt\npc_m_1e_164_s01_t001.spt
 うれしいよ！,I'm glad!,romfs\story\spt\npc_m_1e_164_s01_t001.spt
 たぶんね。,Probably.,romfs\story\spt\npc_m_1e_164_s01_t001.spt
-だいじょぶ、うちはロボトルの強さ関係ないから。,"Don't worry, we don't care about the strength of the robottle.",romfs\story\spt\npc_m_1e_164_s01_t001.spt
 だけどさ、もしも気に入ったなら,"But hey, if you like it.",romfs\story\spt\npc_m_1e_164_s01_t001.spt
 メダロット好きなら、なにも問題ないはずさ。,"If you like Medarotto, you should have no problem with it.",romfs\story\spt\npc_m_1e_164_s01_t001.spt
 見学に来ただけか。あはは。,You just came for a visit? Ha-ha.,romfs\story\spt\npc_m_1e_164_s01_t001.spt
@@ -9639,7 +9560,7 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 せっかくパーツ見つかったのに。,I went to the trouble of finding parts.,romfs\story\spt\npc_pc03_161_s07_t031.spt
 とにかく早く行って渡してあげよう。,"Anyway, I'll go there as soon as possible and give it to him.",romfs\story\spt\npc_pc03_161_s07_t031.spt
 ん？　どうしたの？,Hmm?　What's wrong?,romfs\story\spt\npc_pc03_161_s07_t031.spt
-アイドル部か…　いやもう体育館かな？,Idol club... or is it already a gymnasium?,romfs\story\spt\npc_pc03_161_s07_t031.spt
+アイドル部か…　いやもう体育館かな？,Idol club... or is it already a gymnasium?,romfs\story\spt\npc_pc03_161_s07_t031.spts
 いやいや、大人気だね。,"No, no, no, it's very popular.",romfs\story\spt\npc_pc03_161_s08_t011.spt
 正直ここまで流行るとは思わなかったよ。,I honestly didn't think it would be this popular.,romfs\story\spt\npc_pc03_161_s08_t011.spt
 今はあのふたりを追いかけよう。,Now let's go after those two.,romfs\story\spt\npc_pc03_161_s10_t011.spt
@@ -9897,14 +9818,7 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 ボスの独り言,The Boss's Murmur,romfs\story\spt\npc_rescue_meda_165_s06_t011.spt
 ま、ジマンじゃないが,"Well, it's not Ziman.",romfs\story\spt\npc_rescue_meda_165_s07_t011.spt
 忙しくないボスを知ってるのはオレだけだなっ。,I'm the only one who knows a boss who isn't busy.,romfs\story\spt\npc_rescue_meda_165_s07_t011.spt
-いや、強い弱い以前に,"No, before strong and weak.",romfs\story\spt\npc_rival_117_s01_t001.spt
-お前みたいのが来んの楽しみにしてたなんてよ～,I can't believe I was looking forward to having someone like you here!,romfs\story\spt\npc_rival_117_s01_t001.spt
-お前らぜんぜんロボトルわかってないし！,You guys don't understand Robotol at all!,romfs\story\spt\npc_rival_117_s01_t001.spt
 びっくりしたぜ。,I was surprised.,romfs\story\spt\npc_rival_117_s01_t001.spt
-ま、いっか。,Oh well.,romfs\story\spt\npc_rival_117_s01_t001.spt
-オレ…　自分にムカついてきた！,I... I'm pissed off with myself!,romfs\story\spt\npc_rival_117_s01_t001.spt
-弱すぎて！,Too weak!,romfs\story\spt\npc_rival_117_s01_t001.spt
-汗かいて忘れよっと！,I'll sweat it out and forget about it!,romfs\story\spt\npc_rival_117_s01_t001.spt
 おとなしく帰宅部でも入ってな。,You should go home and join a club.,romfs\story\spt\npc_rival_165_s01_t001.spt
 お前らみてーにいいかげんなコンビに,"You know, you guys are a good pair of guys.",romfs\story\spt\npc_rival_165_s01_t001.spt
 くっくっくっくっ。,Kukkukkukkukkukkukkukkukkukkukkukkukkukkukkukkukkuk.,romfs\story\spt\npc_rival_165_s01_t001.spt
@@ -9944,8 +9858,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 ロボトルしようぜ。,Let's robattle.,romfs\story\spt\npc_rival_333_s08_t003.spt
 実験台に――　いやいや対戦相手になってくれよ。,"You're going to have to experiment-- no, no, no, no, you're going to have to play against me.",romfs\story\spt\npc_rival_333_s08_t003.spt
 待ってるぜ。,I'll be waiting.,romfs\story\spt\npc_rival_333_s08_t003.spt
-おまえのロボトル、つまんねーな。,Your robattle is so boring.,romfs\story\spt\npc_rival_meda_117_s01_t001.spt
-野良とやってるみてーでよ！,It's like fucking a stray!,romfs\story\spt\npc_rival_meda_117_s01_t001.spt
 オレはスイカあんま好きじゃねーや。,I don't really like watermelon.,romfs\story\spt\npc_rival_meda_165_s06_t011.spt
 メロンのほうがイカシてるぜ。,Melon is cooler.,romfs\story\spt\npc_rival_meda_165_s06_t011.spt
 やっぱ外のほーがおもしれーぜ。,It's more fun outside.,romfs\story\spt\npc_rival_meda_165_s07_t011.spt
@@ -10112,9 +10024,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 現実はむしろ逆。,The reality is rather the opposite.,romfs\story\spt\npc_teach_fb_108_s11_t011.spt
 知っての通り、校長先生の体はほとんどが人工物よ。,"As you know, the principal's body is mostly man-made.",romfs\story\spt\npc_teach_fb_108_s11_t011.spt
 良さそうね…,Looks good...,romfs\story\spt\npc_teach_fb_108_s11_t011.spt
-わたしたちは保険医よ。,We are insurance doctors.,romfs\story\spt\npc_teach_fb_meda_000_s01_t011.spt
-わたしはメダロットの病気を治すのよ。,I am to cure the disease of medallions.,romfs\story\spt\npc_teach_fb_meda_000_s01_t011.spt
-マスターはニンゲンの。,The master is Ningen's.,romfs\story\spt\npc_teach_fb_meda_000_s01_t011.spt
 このキセツは接触不良が起きやすいの。,These xeroxes are prone to contact failures.,romfs\story\spt\npc_teach_fb_meda_000_s03_t011.spt
 反応がニブいと感じたら、すぐ相談してね。,"If you feel that the response is nibbling, consult me immediately.",romfs\story\spt\npc_teach_fb_meda_000_s03_t011.spt
 身体の調子はどう？,How's your body feeling?,romfs\story\spt\npc_teach_fb_meda_000_s03_t011.spt
@@ -10134,7 +10043,7 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 な～んて,something like ...,romfs\story\spt\npc_teach_fc_130_s01_t011.spt
 ハードネステン,hardness tin,romfs\story\spt\npc_teach_fc_meda_000_s00_t001.spt
 オトコ型もオンナ型も運動能力に差はないのよ。,There is no difference in athletic ability between the male and female types.,romfs\story\spt\npc_teach_fc_meda_130_s01_t001.spt
-メダロットはニンゲンとちがって,Medalots are different from ningen.,romfs\story\spt\npc_teach_fc_meda_130_s01_t001.spt
+
 教師男_A,Teacher Man_A,romfs\story\spt\npc_teach_ma.spt
 いやぁはっはっは。,No ha ha ha.,romfs\story\spt\npc_teach_mb_131_s04_t001.spt
 こう見えてもぼかぁ,despite appearances,romfs\story\spt\npc_teach_mb_131_s04_t001.spt
@@ -10166,7 +10075,6 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 忙しそうね。,Sounds like you've been busy.,romfs\story\spt\npc_ten_000_s06_t001.spt
 やあん、難しいです負けそうですぅ。,"Yaan, it's difficult, I'm going to lose.",romfs\story\spt\npc_ten_140_s06_t111.spt
 スピちゃん、がんばってぇ！,"Good luck, Spi!",romfs\story\spt\npc_ten_140_s06_t111.spt
-スピネル,spinel,romfs\story\spt\npc_ten_meda_000_s00_t001.spt
 おじさん２,Uncle2,romfs\story\spt\npc_test.spt
 おにいさん１,elder brother1,romfs\story\spt\npc_test.spt
 おにいさん２,elder brother2,romfs\story\spt\npc_test.spt
@@ -10476,15 +10384,10 @@ ePrg.第四章解決,ePrg. Chapter 4 Resolution,romfs\story\spt\npc_001_00.spt
 5ブリキオー入手,5 Tin O obtained,romfs\story\spt\rom_menu.spt
 5マインの部屋,5 Mine Room,romfs\story\spt\rom_menu.spt
 5マイン仲間に,5 Mine friends.,romfs\story\spt\rom_menu.spt
-5マイン情報Ａ,5 Mine Information A,romfs\story\spt\rom_menu.spt
-5マイン情報Ｂ,5 Mine Information B,romfs\story\spt\rom_menu.spt
-5ミオ救出,5 Mio Rescue,romfs\story\spt\rom_menu.spt
-5メダロット集会,5Medalot Rally,romfs\story\spt\rom_menu.spt
 5リョウマの呼び出し,5Ryoma's call,romfs\story\spt\rom_menu.spt
 5予備い,5 spare,romfs\story\spt\rom_menu.spt
 5予備は,5 reserve is,romfs\story\spt\rom_menu.spt
 5予備ろ,5 preliminary route,romfs\story\spt\rom_menu.spt
-5倉庫に急ぐメダロット,5Medalots rushing to the warehouse,romfs\story\spt\rom_menu.spt
 5夜中に目覚める,5Wake up in the middle of the night,romfs\story\spt\rom_menu.spt
 5女子寮再び１,5 Women's dormitory again 1,romfs\story\spt\rom_menu.spt
 5女子寮再び２,5 Women's dormitory again 2,romfs\story\spt\rom_menu.spt
@@ -10576,7 +10479,6 @@ test移動,test move,romfs\story\spt\rom_menu.spt
 　　　　エンカウント無し=,　　　　No encounters=,romfs\story\spt\rom_menu.spt
 　　　　コリジョン無視=,　　　　Collision Ignored=,romfs\story\spt\rom_menu.spt
 アプリ入手,Get App,romfs\story\spt\rom_menu.spt
-ゴールドメダロット,gold medallion,romfs\story\spt\rom_menu.spt
 ストーリークリア,Story Clear,romfs\story\spt\rom_menu.spt
 ターメリック1,Turmeric1,romfs\story\spt\rom_menu.spt
 ターメリックend,turmeric end,romfs\story\spt\rom_menu.spt
@@ -10760,7 +10662,6 @@ eMission.メダ検定実技４,eMission.Meda Test Practice 4,romfs\story\spt\tes
 メダリア全０,Medaglia all 0,romfs\story\spt\test_menu_a2.spt
 メダリア素材,Medaglia Material,romfs\story\spt\test_menu_a2.spt
 メダロッチテスト,medulloch test,romfs\story\spt\test_menu_a2.spt
-メダロット,medallion,romfs\story\spt\test_menu_a2.spt
 メダ検定実技１,Meda Test Practicum 1,romfs\story\spt\test_menu_a2.spt
 メダ検定実技２,Meda Test Practice 2,romfs\story\spt\test_menu_a2.spt
 メダ検定実技３,Meda Test Practicum 3,romfs\story\spt\test_menu_a2.spt
@@ -10868,7 +10769,6 @@ eMission.メダ検定実技４,eMission.Meda Test Practice 4,romfs\story\spt\tes
 同時にSEもなる！,"At the same time, it also becomes SE!",romfs\story\spt\test002.spt
 曲が変わるよ,The music will change.,romfs\story\spt\test003.spt
 です,is,romfs\story\spt\test004.spt
-メダロットの名前表示テスト,Medallion name display test,romfs\story\spt\test004.spt
 主人公の名前表示テスト,Main character's name display test,romfs\story\spt\test004.spt
 テストテスト,test-testing,romfs\story\spt\test005.spt
 テストテストテスト,"test, test, test",romfs\story\spt\test005.spt
