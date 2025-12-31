@@ -1,65 +1,55 @@
-import os, csv
 from pathlib import Path
+import csv
+import os
 
 ENC = "cp932"
 
-def has_japanese(s: str) -> bool:
-    return any(
-        ('\u3040' <= c <= '\u30ff') or ('\u4e00' <= c <= '\u9fff')
-        for c in s
-    )
-
-root = Path(r"...\romfs\story\spt") # <-- change to your file location
-tsv  = Path("M9-translations.csv") # <-- your filled TSV
-out  = Path(r"...\Documents\test\spt")  # <-- output folder
+#use full paths "C:\blahbalh\downloads\...\story\spt"
+root = Path(r"...\story\spt") #original M9 story/spt .spt files
+out  = Path(r"...\spt-out") #output path
+csv_path = Path(r"...\M9-translations-initial.csv") #translation .csv file
 
 out.mkdir(parents=True, exist_ok=True)
 
-# Load JP->EN map
-jp2en = {}
-with tsv.open("r", encoding="utf-8", newline="") as f:
-    r = csv.DictReader(f, delimiter=",")
+# Load replacements grouped by file_rel
+repls = {}  # file_rel -> list of (part_index, en)
+with csv_path.open("r", encoding="utf-8", newline="") as f:
+    r = csv.DictReader(f)
     for row in r:
-        jp = (row.get("jp") or "").strip()
-        en = (row.get("en") or "").strip()
-        if jp and en:
-            # Avoid smart quotes etc that CP932 can't encode
-            en = en.replace("“", '"').replace("”", '"').replace("’", "'")
-            jp2en[jp] = en
+        file_rel = row["file_rel"].strip()
+        part_index = int(row["part_index"])
+        en = (row["en"] or "").strip()
+        if not file_rel or not en:
+            continue
+        repls.setdefault(file_rel, []).append((part_index, en))
 
-updated_files = []
+updated = []
+missing = []
 
-for fp in root.rglob("*.spt"):
-    rel = fp.relative_to(root)
-    out_fp = out / rel
-    out_fp.parent.mkdir(parents=True, exist_ok=True)
+for file_rel, items in repls.items():
+    src = root / file_rel
+    if not src.exists():
+        missing.append(file_rel)
+        continue
 
-    data = fp.read_bytes()
+    data = src.read_bytes()
     parts = data.split(b"\x00")
+
     changed = False
-    new_parts = []
-
-    for seg in parts:
-        if not seg:
-            new_parts.append(seg)
-            continue
-        try:
-            s = seg.decode(ENC)
-        except Exception:
-            new_parts.append(seg)
-            continue
-
-        if has_japanese(s) and s in jp2en:
-            en_bytes = jp2en[s].encode(ENC, errors="strict")
-            new_parts.append(en_bytes)
+    for part_index, en in items:
+        if 0 <= part_index < len(parts):
+            parts[part_index] = en.encode(ENC, errors="strict")
             changed = True
-        else:
-            new_parts.append(seg)
 
-    out_fp.write_bytes(b"\x00".join(new_parts))
     if changed:
-        updated_files.append(str(rel))
+        dst = out / file_rel
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        dst.write_bytes(b"\x00".join(parts))
+        updated.append(file_rel)
 
-# Report
-(out / "updated_files.txt").write_text("\n".join(updated_files), encoding="utf-8")
-print(f"Done. Updated {len(updated_files)} files. Report: {out/'updated_files.txt'}")
+(out / "updated_files.txt").write_text("\n".join(updated), encoding="utf-8")
+(out / "missing_files.txt").write_text("\n".join(missing), encoding="utf-8")
+
+print(f"Updated: {len(updated)}")
+print(f"Missing: {len(missing)}")
+print(f"Output: {out}")
