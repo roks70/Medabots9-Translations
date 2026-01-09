@@ -1,11 +1,12 @@
 ## Disclosure
-Just to be upfront, the initial story translation after Omnija and Sotaeko's work was made using DeepL's translations. This is initially machine translated and it is in the process of being cleaned up by me (and hopefully more people!).
+Just to be upfront, the initial story translation after Omnija and Sotaeko's work was made using DeepL's translations. This is initially machine translated and it is in the process of being cleaned up by me (and hopefully more people!). I am also in the process of cleaning up the files Omnija and Sotaeko updated where necessary to be more inline with everything else.
 
 ## Credit
-Credit for starting and doing the gameplay elements:  
+Credit for starting and doing the essential gameplay elements:  
 Omnija - Translator, Artist, ROM Hacking  
 Sotaeko - Translator, Artist, Editor, Community Management  
 Original repository - [Medarot-9-3ds-Translations](https://github.com/Omnija/Medarot-9-3ds-Translations/tree/master)
+Medabots discord - for all the helpful clarifications
 
 ## Instructions
 For anyone who is might be trying to get this to work on an emulator. This works for me,
@@ -33,8 +34,13 @@ for the romfs folder,
 This allows the modded files to be used directly from the emulator. Much easier than extracting/rebuilding every time.
 
 ## Updates
-In the python folder is the **M9-translations.csv** where the japanese, english, and the file that the japanese came from. Currently these are what's used to populate the rest of the romfs/story/spt files. It is unpolished and needs more refining. You can directly update the .spt file (in notepad++ or your choice of editor, just make sure you don't remove the nulls/other characters) and upload it in the repository. The translation was through DeepL so it is definitely missing the Medabots context. 
-
-I have chosen to use a M9-cleaned-up-translations.csv file to put the cleaned up translated lines into so we know what lines need to be looked at still in the M9-translations.csv file. If there's a better way, let me know.
+In the python folder is the **M9-translations.csv** where the japanese, english, and the file that the japanese came from. Currently these are what's used to populate the rest of the romfs/story/spt files. It is unpolished and needs more refining. You can directly update the .spt file (in notepad++ or your choice of editor, just make sure you don't remove the nulls/other characters) and upload it in the repository. The translation was through DeepL so it definitely doesn't have the full Medabots context.
 
 I included the **populate-spt-files.py** script for populating the original .spt files (in **docs/spt-orig.zip**) en masse. I'll be updating when I can now, but if you see things like "pretty-pline" (you can search in the .csv to see the original japanese and try to dechiper it) that's actually the medabot Pretty Prime. Let me know where you see translation issues like that and I'll be able to update at some point (or you can upload the file).
+
+## Progress
+Story (story/spt) - ~5000/16200 lines (~3000 files) quality checked
+Battle (battle/spt) - 2/8 full tutorials quality checked.
+Help/Info (mdr/spt) - ~900 files. This seems to be the medaparts, memos, skill descriptions, 3 tutorials quality checked. Translations don't break the game but look rather ugly until quality checked/formatted.
+Internal Data (param) - this is where the medapart names/values live but it is binary data so a bit harder to edit manually without breaking something.
+
