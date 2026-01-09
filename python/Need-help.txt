@@ -1,0 +1,20 @@
+This is standalone. Does that sound right? 
+bt0001.spt,859,label,,野良メダロット,Stray Medabot
+bt0001.spt,872,dialogue,野良メダロット,ろぼとる・・するわん,"I will...battle, woof!"
+
+Standalone. This is all that's in the one file, probably for wild encounters?
+bt0022.spt,859,label,,野良メダロット,Stray Medabot
+bt0022.spt,872,dialogue,野良メダロット,アソブニャ・・,Asobunya...
+
+Standalone. Is that more of oh...okay ?
+bt0328.spt,859,label,,カゲトラ,Kagetora
+bt0328.spt,872,dialogue,カゲトラ,お…　おう。,Oh...Oh.
+
+context: Tenma's little sister is about to tell him he got a big envelope and got accepted into MEDA academy. Trying to figure out how to capture 大変！ and the next line.
+f00_030_910_00_t011.spt,1026,label,,アサヒ,Asahi
+f00_030_910_00_t011.spt,1037,dialogue,アサヒ,お兄ちゃん！大変！,Big brother! Oh my god!
+f00_030_910_00_t011.spt,1051,dialogue,アサヒ,大変って…　なにが？,What's going on...?
+
+context: rokusho just beat the rubberobos and is searching them but they don't have anything on them. The rubberobos are saying "I'm telling you, I didn't steal anything, robo!" and then rokusho says that below. Is that an accurate translation?
+f00_010_901_00_t052.spt,,dialogue,まだわかんねーのか…,Don't you understand yet...?
+f00_010_901_00_t052.spt,,dialogue,まだわからぬか…,Do you still not understand...?
