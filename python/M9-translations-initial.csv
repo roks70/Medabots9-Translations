@@ -8,7 +8,7 @@ bt0002.spt,859,label,,探検部長：クニギク,Exploration Club President: Ku
 bt0002.spt,882,label,,くん、わかってるね…。,"-kun, you know, don't you..."
 bt0004.spt,859,label,,ローレル,Laurel
 bt0004.spt,878,dialogue,ローレル,それでは、テスト開始です。,"Alright, let's begin the test."
-bt0007.spt,859,label,,ともだち,Tomodachi
+bt0007.spt,859,label,,ともだち,Friend
 bt0007.spt,869,dialogue,ともだち,勝負だ！,Let's settle this!
 bt0009.spt,859,label,,ロボロボ団,Rubberobo Gang
 bt0009.spt,872,dialogue,ロボロボ団,ロボトルだったら負けないロボ！,I won't lose robattles!
@@ -1131,8 +1131,8 @@ bt0568.spt,859,label,,セレクト隊男隊員,Select Corps Male Member
 bt0568.spt,872,dialogue,セレクト隊男隊員,はっ、ロボトルでありますね！,"Hah! It's a robattle, isn't it!"
 bt0568.spt,875,dialogue,セレクト隊男隊員,もちろん喜んでお相手するであります！,I'd be delighted to be your opponent!
 effect_test.spt,1071,dialogue,,エフェクトテスト,Effect Test
-f00_000_900_00_t011.spt,1047,label,,ともだち,Tomodachi
-f00_000_900_00_t011.spt,1072,label,,ともだち,Tomodachi
+f00_000_900_00_t011.spt,1047,label,,ともだち,Friend
+f00_000_900_00_t011.spt,1072,label,,ともだち,Friend
 f00_000_900_00_t011.spt,1039,dialogue,ともだち,入学からもう１週間かー。,"Phew!～it's already been a week since
 school started"
 f00_000_900_00_t011.spt,1053,dialogue,ともだち,早いねー。,"I know, it went by so fast!"
@@ -1144,9 +1144,9 @@ f00_000_900_00_t011.spt,1092,dialogue,ともだち,ケンタくんじゃなく�
 f00_000_900_00_t011.spt,1095,dialogue,ともだち,えっと…,But umm...
 f00_000_900_00_t011.spt,1110,dialogue,ともだち,いいかげん覚えてくれよ。,"Come on, you've got to remember it."
 f00_000_900_00_t011.spt,1118,dialogue,ともだち,オレの名前は――,My name is――
-f00_000_900_00_t012.spt,1038,label,,ともだち,Tomodachi
-f00_000_900_00_t012.spt,1069,label,,ともだち,Tomodachi
-f00_000_900_00_t012.spt,1103,label,,ともだち,Tomodachi
+f00_000_900_00_t012.spt,1038,label,,ともだち,Friend
+f00_000_900_00_t012.spt,1069,label,,ともだち,Friend
+f00_000_900_00_t012.spt,1103,label,,ともだち,Friend
 f00_000_900_00_t012.spt,1053,dialogue,ともだち,よし、こんどこそ覚えたから！,"Alright, I've got it this time!"
 f00_000_900_00_t012.spt,1061,dialogue,ともだち,ホントかなー。,I wonder if you will...
 f00_000_900_00_t012.spt,1064,dialogue,ともだち,ま、それはともかく、なんの用？,"Anyway, did you need something?"
@@ -1158,20 +1158,20 @@ f00_000_900_00_t012.spt,1112,dialogue,ともだち,本番前にちょっと試�
 f00_000_900_00_t012.spt,1120,dialogue,ともだち,そっか大会、明日だっけ…,"Oh right, the tournament is tomorrow, huh..."
 f00_000_900_00_t012.spt,1135,dialogue,ともだち,いいよ、わかった。,"Ok, I'm in."
 f00_000_900_00_t012.spt,1138,dialogue,ともだち,よし勝負だ！,"Alright, let's do this!"
-f00_000_900_00_t013.spt,1040,label,,ともだち,Tomodachi
+f00_000_900_00_t013.spt,1040,label,,ともだち,Friend
 f00_000_900_00_t013.spt,1032,dialogue,ともだち,やったあ！,Yesss!
 f00_000_900_00_t013.spt,1046,dialogue,ともだち,くっそお、ダメかー。,"Darn it, it's no good."
 f00_000_900_00_t013.spt,1049,dialogue,ともだち,これならイケると思ったのになあ…,I thought this would work out better...
 f00_000_900_00_t013.spt,1057,dialogue,ともだち,でも、テストとしてはまあまあかな？,"But as a test, it's not too bad, I guess?"
 f00_000_900_00_t013.spt,1060,dialogue,ともだち,チーム戦ならうまくいきそうな気がするし…,This might work better in a team battle...
-f00_000_900_00_t014.spt,1027,label,,ともだち,Tomodachi
-f00_000_900_00_t014.spt,1054,label,,ともだち,Tomodachi
+f00_000_900_00_t014.spt,1027,label,,ともだち,Friend
+f00_000_900_00_t014.spt,1054,label,,ともだち,Friend
 f00_000_900_00_t014.spt,1038,dialogue,ともだち,やったあ！,Yay!
 f00_000_900_00_t014.spt,1046,dialogue,ともだち,くっそ～,Darn it!
 f00_000_900_00_t014.spt,1049,dialogue,ともだち,ユダンした～！,I let my guard down!
 f00_000_900_00_t014.spt,1060,dialogue,ともだち,うん、いいテストになったな。,"Yeah, it was a good test."
 f00_000_900_00_t014.spt,1063,dialogue,ともだち,チーム戦ならもっとうまくいきそうだし…,"In a team battle, we could do even better..."
-f00_000_900_00_t015.spt,1027,label,,ともだち,Tomodachi
+f00_000_900_00_t015.spt,1027,label,,ともだち,Friend
 f00_000_900_00_t015.spt,1038,dialogue,ともだち,相手してくれてサンキュ！,Thanks for hanging out!
 f00_000_900_00_t015.spt,1041,dialogue,ともだち,じゃあね,See you later
 f00_000_900_00_t015.spt,1054,dialogue,ともだち,大会、明日の昼だからね。,"The tournament is tomorrow afternoon"
@@ -11735,10 +11735,6 @@ member_m.spt,1165,dialogue,,マイン,Main
 member_m.spt,1169,dialogue,,仲間からはずれた。,has left the party.
 member_m.spt,1196,dialogue,,リョウマ,Ryoma
 member_m.spt,1200,dialogue,,仲間からはずれた。,has left the party.
-npc000.spt,1003,dialogue,,※テキスト未作成,※Text not created
-npc_001_00.spt,1154,label,,おじいさん,Grandpa
-npc_001_00.spt,1162,dialogue,おじいさん,<先日@04せんじつ>のことでローレル<探偵@04たんてい><事務所@04じむしょ>の,"Regarding the other day, Laurel Detective Agency's"
-npc_001_00.spt,1165,dialogue,おじいさん,<新人@04しんじん>さんの<評判@05ひょうばん>はうなぎ<登@02のぼ>りじゃよ。,The <reputation> of the <newcomer> at Laurel <Detective Agency> is skyrocketing.
 npc_box_000.spt,997,dialogue,,パーツボックス。,Parts box.
 npc_box_000.spt,1000,dialogue,,部で手に入れたパーツはここに保管される。,Parts obtained in the field are stored here.
 npc_box_010.spt,997,dialogue,,これは何だろう？,What is this?
@@ -15657,114 +15653,6 @@ portal_m330_01.spt,1377,dialogue,,どこに行こう。,Where should we go?
 portal_m331_00.spt,1377,dialogue,,どこに行こう。,Where should we go?
 portal_m500_00.spt,1377,dialogue,,どこに行こう。,Where should we go?
 portal_m600_00.spt,1377,dialogue,,どこに行こう。,Where should we go?
-test00.spt,1031,dialogue,<街@02まち>の<人@02ひと>テスト,こんにちは！,Hello!
-test00.spt,1036,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-test00.spt,1042,dialogue,<街@02まち>の<人@02ひと>テスト,ごきげんよう！,Good day!
-test00.spt,1047,dialogue,<街@02まち>の<人@02ひと>テスト,<漢字@03かんじ>はこんな<感@02かん>じで,<Kanji@03> is displayed like this
-test00.spt,1050,dialogue,<街@02まち>の<人@02ひと>テスト,<表示@04ひょうじ>される！,<表示@04ひょうし>される!
-test00.spt,1070,dialogue,<街@02まち>の<人@02ひと>テスト,イベント<絵@01え>はこんな<感@02かん>じで,The event <絵@01絵> was like this <感@02感>
-test00.spt,1090,dialogue,<街@02まち>の<人@02ひと>テスト,テストテストテストテスト,Test test test test
-test000.spt,1029,dialogue,おじいさん,こんにちは！,Hello!
-test000.spt,1034,label,,おじいさん,Grandpa
-test000.spt,1040,dialogue,おじいさん,ごきげんよう！,Hello there!
-test000.spt,1045,dialogue,おじいさん,テキストはこんな感じで,The text will appear like this!
-test000.spt,1048,dialogue,おじいさん,表示される！,displayed!
-test000.spt,1056,dialogue,おじいさん,ダッシュテスト―,Dash test―
-test000.spt,1059,dialogue,おじいさん,ダッシュテスト――,Dash test――
-test000.spt,1064,dialogue,おじいさん,全角スペーステスト　全角スペーステスト,Full-width space test Full-width space test
-test000.spt,1067,dialogue,おじいさん,半角スペーステスト,Half-width space test
-test000.spt,1068,label,,半角スペーステスト,Half-width Space Test
-test000.spt,1073,label,,おじいさん,Grandpa
-test000.spt,1079,dialogue,おじいさん,全角数字テスト０１２３４５６７８９,Full-width numeric test 0123456789
-test000.spt,1082,dialogue,おじいさん,半角数字テスト0123456789,Half-width number test 0123456789
-test000.spt,1090,dialogue,おじいさん,文字色テスト,Text Color Test
-test000.spt,1093,dialogue,おじいさん,<c:ff00ff>重要語句<c>、<c:ffff00>重要場所<c>、<c:00ff00>重要アイテム<c>,"<c:ff00ff>Important Terms<c>, <c:ffff00>Important Locations<c>, <c:00ff00>Important Items<c>"
-test001.spt,998,dialogue,,イベント絵は、こんな感じ…,Event art looks like this...
-test001.spt,1003,dialogue,,もどる,Back
-test002.spt,1014,dialogue,,うなずいてみる,Nodding along
-test002.spt,1017,dialogue,,同時にSEもなる！,"At the same time, the sound effect plays!"
-test003.spt,1000,dialogue,,曲が変わるよ,The song's changing.
-test004.spt,1029,dialogue,おじいさん,主人公の名前表示テスト,Protagonist Name Display Test
-test004.spt,1034,label,,おじいさん,Grandpa
-test004.spt,1041,label,,です,is
-test004.spt,1049,dialogue,おじいさん,メダロットの名前表示テスト,Medabot Name Display Test
-test004.spt,1054,label,,おじいさん,Grandpa
-test004.spt,1061,label,,です,is
-test005.spt,1024,label,,おじいさん,Grandpa
-test005.spt,1032,dialogue,おじいさん,テストテスト,Test Test
-test005.spt,1035,dialogue,おじいさん,テストテストテスト,Test Test Test
-test006.spt,870,dialogue,,こんにちは,Hello
-test007.spt,961,label,,おにいさん,Big brother
-test007.spt,967,dialogue,おにいさん,それはすごくよかった,That was really great.
-test008.spt,961,label,,おにいさん,Big brother
-test008.spt,967,dialogue,おにいさん,それはすごくよかった,That was really great.
-test009.spt,961,label,,おにいさん,Big brother
-test009.spt,967,dialogue,おにいさん,ふーん,Hmm.
-test01.spt,2704,dialogue,,こんにちは。,Hello.
-test01.spt,2723,dialogue,,それはすごくよかった。,That was really great.
-test01.spt,3303,dialogue,,それはよかった。,That's good.
-test01.spt,3371,dialogue,,ふーん。,Hmm.
-test01.spt,3468,dialogue,,がんばって。,Do your best.
-test01.spt,3651,dialogue,,…がんばって。,...Do your best.
-test010.spt,961,label,,おにいさん,Big brother
-test010.spt,967,dialogue,おにいさん,がんばって,Do your best
-test011.spt,961,label,,おにいさん,Big brother
-test011.spt,967,dialogue,おにいさん,…がんばって,...Do your best
-test012.spt,998,dialogue,,ロッカーだ１,Lockers
-test013.spt,998,dialogue,,ロッカーだ２,Lockers 2
-test02.spt,2363,dialogue,,※パーツ、メダル、メダリアをゲット！,"※Get parts, medals, and medallions!"
-test_battle3.spt,2535,dialogue,テスト,ロボトルしようぜ！,Let's robattle!
-test_battle3.spt,2540,label,,テスト,Test
-test_battle3.spt,2608,label,,テスト,Test
-test_battle3.spt,2616,dialogue,テスト,ロボトルしたいぜ！,I wanna robattle!
-test_dialog.spt,1596,label,,ミオ,Mio
-test_dialog.spt,1626,label,,ミオ,Mio
-test_dialog.spt,1656,label,,ミオ,Mio
-test_dialog.spt,1664,dialogue,ミオ,テスト　Ｐ０　１,Test P0 1
-test_dialog.spt,1683,label,,ミオ,Mio
-test_dialog.spt,1691,dialogue,ミオ,テスト　Ｐ０　２,Test P0 2
-test_dialog.spt,1702,label,,ミオ,Mio
-test_dialog.spt,1710,dialogue,ミオ,２選択肢テスト？,Two-choice test?
-test_dialog.spt,1726,dialogue,ミオ,回想フィルタOn,Flashback Filter On
-test_dialog.spt,1741,dialogue,ミオ,回想フィルタOff,Flashback Filter Off
-test_dialog.spt,1753,label,,ミオ,Mio
-test_dialog.spt,1761,dialogue,ミオ,３選択肢テスト？,Three-choice test?
-test_dialog.spt,1776,dialogue,ミオ,選択１が選ばれた！,Option 1 has been selected!
-test_dialog.spt,1805,dialogue,ミオ,選択２が選ばれた！,Option 2 was selected!
-test_dialog.spt,1826,dialogue,ミオ,選択３が選ばれた！,Option 3 was selected!
-test_dialog.spt,1847,label,,ミオ,Mio
-test_dialog.spt,1855,dialogue,ミオ,４選択肢テスト？,Multiple-choice test?
-test_dialog.spt,1870,dialogue,ミオ,選択１が選ばれた！,Option 1 has been selected!
-test_dialog.spt,1886,dialogue,ミオ,選択２が選ばれた！,Option 2 was selected!
-test_dialog.spt,1902,dialogue,ミオ,選択３が選ばれた！,Option 3 was selected!
-test_dialog.spt,1925,dialogue,ミオ,選択４が選ばれた！,Option 4 has been selected!
-test_dialog.spt,1948,label,,ミオ,Mio
-test_dialog.spt,1956,dialogue,ミオ,５選択肢テスト？,Multiple-choice test?
-test_dialog.spt,1972,dialogue,ミオ,選択１が選ばれた！,Option 1 has been selected!
-test_dialog.spt,1988,dialogue,ミオ,選択２が選ばれた！,Option 2 was selected!
-test_dialog.spt,2004,dialogue,ミオ,選択３が選ばれた！,Option 3 was selected!
-test_dialog.spt,2020,dialogue,ミオ,選択４が選ばれた！,Option 4 has been selected!
-test_dialog.spt,2032,dialogue,ミオ,選択５が選ばれた！,Option 5 has been selected!
-testkabe_091_00_00.spt,998,dialogue,,<川@02かわ>だ。,<川@02 River>
-testkabe_091_00_00.spt,1006,dialogue,,<水面@03みなも>に<映@02うつ>るオレの<顔@02かお>は,My face reflected on the water's surface
-testkabe_091_00_00.spt,1009,dialogue,,やる<気@01き>に<満@01み>ちている。,is full of <motivation@01> and <determination@01>.
-testnpc_091_00_00.spt,1029,dialogue,<街@02まち>の<人@02ひと>テスト,こんにちは！,Hello!
-testnpc_091_00_00.spt,1034,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-testnpc_091_00_00.spt,1040,dialogue,<街@02まち>の<人@02ひと>テスト,ごきげんよう！,Good day!
-testnpc_091_00_00.spt,1045,dialogue,<街@02まち>の<人@02ひと>テスト,<漢字@03かんじ>はこんな<感@02かん>じで,<Kanji@03> is displayed like this
-testnpc_091_00_00.spt,1048,dialogue,<街@02まち>の<人@02ひと>テスト,<表示@04ひょうじ>される！,<表示@04ひょうし>される!
-testnpc_091_01_00.spt,896,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-testnpc_091_01_00.spt,904,dialogue,<街@02まち>の<人@02ひと>テスト,こんにちは。,Hello.
-testnpc_091_01_01.spt,961,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-testnpc_091_01_01.spt,967,dialogue,<街@02まち>の<人@02ひと>テスト,それはすごくよかった。,That was really great.
-testnpc_091_01_02.spt,961,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-testnpc_091_01_02.spt,967,dialogue,<街@02まち>の<人@02ひと>テスト,それはよかった。,That's good.
-testnpc_091_01_03.spt,961,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-testnpc_091_01_03.spt,967,dialogue,<街@02まち>の<人@02ひと>テスト,ふーん。,Hmm.
-testnpc_091_01_04.spt,961,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-testnpc_091_01_04.spt,967,dialogue,<街@02まち>の<人@02ひと>テスト,がんばって。,Do your best.
-testnpc_091_01_05.spt,961,label,,<街@02まち>の<人@02ひと>テスト,<Town@02>'s <People@02> Test
-testnpc_091_01_05.spt,967,dialogue,<街@02まち>の<人@02ひと>テスト,…がんばって。,...Do your best.
 tri030_00_t011.spt,1024,label,,校長,Principal
 tri030_00_t011.spt,1035,dialogue,校長,うむ。,Hmm.
 tri030_00_t011.spt,1038,dialogue,校長,次は…,Next...
