@@ -6,7 +6,7 @@ Credit for starting and doing the essential gameplay elements:
 Omnija - Translator, Artist, ROM Hacking  
 Sotaeko - Translator, Artist, Editor, Community Management  
 Original repository - [Medarot-9-3ds-Translations](https://github.com/Omnija/Medarot-9-3ds-Translations/tree/master)  
-Medabots discord - for all the helpful clarifications
+[Medabots discord](https://discord.gg/CqusJ7fbGG) - for all the helpful clarifications/banter
 
 ## Instructions
 For anyone who is might be trying to get this to work on an emulator. This works for me,
