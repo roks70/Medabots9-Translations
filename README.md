@@ -19,7 +19,7 @@ For anyone who is might be trying to get this to work on an emulator. This works
 6. Right click on the game -> Open -> Mods Location, it should take you to something like this ...\AppData\Roaming\AzaharPlus\load\mods\0004000000174F00
 7. Make a romfs and exefs folder inside the 0004000000174F00 folder
 8. Add the exefs and romfs folders inside the data folder (from the repository download in step 3.) into the folder structure of the mod 0004000000174F00 folder
-9. For the banner.bnr pick one for the Metabee or Rokusho version
+9. **If you are using KBT do not add the exefs files. You can skip the exefs stuff, those only work for KWG**
 
 It should end up looking something like this for the exefs folder:
 
