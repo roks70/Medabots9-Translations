@@ -39,8 +39,8 @@ In the python folder is the **M9-translations.csv** where the japanese, english,
 I included the **populate-spt-files.py** script for populating the original .spt files (in **docs/spt-orig.zip**) en masse. I'll be updating when I can now, but if you see things like "pretty-pline" (you can search in the .csv to see the original japanese and try to dechiper it) that's actually the medabot Pretty Prime. Let me know where you see translation issues like that and I'll be able to update at some point (or you can upload the file).
 
 ## Progress
-Story (story/spt) - ~11000/16200 lines (~3000 files) quality checked  
-Battle (battle/spt) - 2/8 full tutorials quality checked.  
+Story (story/spt) - quality checked all story lines.  
+Battle (battle/spt) - 2/8 full tutorials quality checked. The other aren't used.  
 Help/Info (mdr/spt) - ~900 files. This seems to be the medaparts, memos, skill descriptions, 3 tutorials quality checked. Translations don't break the game but look rather ugly until quality checked/formatted.  
 Internal Data (param) - this is where the medapart names/values live but it is binary data so a bit harder to edit manually without breaking something.  
 
