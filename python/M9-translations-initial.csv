@@ -4139,7 +4139,7 @@ f04_030_115_00_t025.spt,1012,dialogue,,お～いミオ！,"Hey, Mio!"
 f04_030_115_00_t026.spt,1027,label,,ミオ,Mio
 f04_030_115_00_t026.spt,1038,dialogue,ミオ,…なに？,...What?
 f04_030_115_00_t026.spt,1052,dialogue,ミオ,だからー。,So...
-f04_030_115_00_t026.spt,1060,dialogue,ミオ,さっきなにか言いかけてたでしょ？,"You were about to say something earlier?
+f04_030_115_00_t026.spt,1060,dialogue,ミオ,さっきなにか言いかけてたでしょ？,"You were about to say something earlier?"
 f04_030_115_00_t026.spt,1065,label,,ミオ,Mio
 f04_030_115_00_t026.spt,1074,dialogue,ミオ,そうだった？,"Oh, was that so?"
 f04_030_115_00_t026.spt,1082,dialogue,ミオ,忘れたから、もういいわ。,"I forgot, so never mind."
@@ -4386,7 +4386,7 @@ f04_050_131_00_t011.spt,1115,label,,生徒会長：スズネ,Student Council Pre
 f04_050_131_00_t011.spt,1132,dialogue,探検部長：クニギク,ずいぶんと余裕だな。,You're taking it pretty easy. I thought you
 f04_050_131_00_t011.spt,1135,dialogue,探検部長：クニギク,少しは目の色を変えてくるかと思ったが。,might at least change your attitude a bit.
 f04_050_131_00_t011.spt,1142,label,,探検部長：クニギク,Exploration Club President: Kunigiku
-f04_050_131_00_t011.spt,1151,dialogue,生徒会長：スズネ,そんなことないよ、変えてるよお。,"That's not true, we've made changes! We're
+f04_050_131_00_t011.spt,1151,dialogue,生徒会長：スズネ,そんなことないよ、変えてるよお。,"That's not true, we've made changes! We're"
 f04_050_131_00_t011.spt,1154,dialogue,生徒会長：スズネ,優勝目指して、やる気マンマンですよウチは。,"highly motivated to win the championship!"
 f04_050_131_00_t011.spt,1161,label,,生徒会長：スズネ,Student Council President: Suzune
 f04_050_131_00_t011.spt,1170,dialogue,生徒会長：スズネ,ならば安心。,Then I can rest assured.
@@ -4401,13 +4401,13 @@ f04_050_131_00_t011.spt,1266,label,,生徒会長：スズネ,Student Council Pre
 f04_050_131_00_t011.spt,1272,dialogue,生徒会長：スズネ,新しい部を立ち上げたいという,There's a growing demand to for new clubs.
 f04_050_131_00_t011.spt,1275,dialogue,生徒会長：スズネ,要望が増えている。,"However, our academy currently has no"
 f04_050_131_00_t011.spt,1283,dialogue,生徒会長：スズネ,しかし現在、我が学院に余分な部室はない。,"extra club rooms. We'll have to disband an"
-f04_050_131_00_t011.spt,1286,dialogue,生徒会長：スズネ,今ある部のどこかを廃し、部屋を空けねばならん。,existing club. This term, the Exploration
+f04_050_131_00_t011.spt,1286,dialogue,生徒会長：スズネ,今ある部のどこかを廃し、部屋を空けねばならん。,"existing club. This term, the Exploration"
 f04_050_131_00_t011.spt,1294,dialogue,生徒会長：スズネ,今期、探検部の貢献および影響の査定は共に０だ。,"Club's contributions and impact is basically"
 f04_050_131_00_t011.spt,1297,dialogue,生徒会長：スズネ,これは全部中でダントツの最下位だ。,zero. It is lowest among all the clubs so
-f04_050_131_00_t011.spt,1305,dialogue,生徒会長：スズネ,当然ダントツの廃部候補。,"they're the top candidate. They need earn"
+f04_050_131_00_t011.spt,1305,dialogue,生徒会長：スズネ,当然ダントツの廃部候補。,"they're the top candidate. They need to earn"
 f04_050_131_00_t011.spt,1308,dialogue,生徒会長：スズネ,くつがえすには相応の活躍を示す必要がある。,"significant achievements by winning the"
-f04_050_131_00_t011.spt,1316,dialogue,生徒会長：スズネ,それが優勝だ。,championship. If they fail, disbandment is
-f04_050_131_00_t011.spt,1319,dialogue,生徒会長：スズネ,逃せば廃部は決定的だ。,"inevitable."
+f04_050_131_00_t011.spt,1316,dialogue,生徒会長：スズネ,それが優勝だ。,"championship. If they fail,"
+f04_050_131_00_t011.spt,1319,dialogue,生徒会長：スズネ,逃せば廃部は決定的だ。,"disbandment is inevitable."
 f04_050_131_00_t011.spt,1339,dialogue,生徒会長：スズネ,でええぇ！？,What the hell!?
 f04_050_131_00_t012.spt,1034,label,,生徒会長：スズネ,Student Council President: Suzune
 f04_050_131_00_t012.spt,1045,dialogue,探検部長：クニギク,伝えてなかったのか。,Didn't I tell you?
@@ -4910,7 +4910,7 @@ f05_080_154_00_t013.spt,1055,dialogue,ミオ,ハ！,Ha!
 f05_080_154_00_t013.spt,1063,dialogue,ミオ,　　　ラ！,La!
 f05_080_154_00_t013.spt,1071,dialogue,ミオ,　た！,Ta!
 f05_080_154_00_t013.spt,1079,dialogue,ミオ,　　　　　　　つ！,Tsu!
-f05_080_154_00_t013.spt,1094,dialogue,ミオ,もおおおぉぉ！！！！！,Oooooohhh!!!!!
+f05_080_154_00_t013.spt,1094,dialogue,ミオ,もおおおぉぉ！！！！！,Oooh my god!!!!!
 f05_080_154_00_t014.spt,1041,label,,ミオ,Mio
 f05_080_154_00_t014.spt,1052,dialogue,ミオ,遅い！,Slowpokes!
 f05_080_154_00_t014.spt,1055,dialogue,ミオ,早く助けなさい！,Hurry up and save me!
