@@ -38,6 +38,7 @@ f01_000_110_00.spt
 npc_pc04_meda_200_s02_t021.spt
 npc_pc02_meda_161_s06_t001.spt
 npc_pc01_meda_161_s09_t011.spt
+f05_180_115_20_t211.spt
 bt0037.spt
 bt0041.spt
 bt0254.spt

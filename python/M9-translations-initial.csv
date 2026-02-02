@@ -5397,7 +5397,7 @@ in the interview?"
 f05_180_115_20_t211.spt,1092,dialogue,,ナイショだ。,It's a secret.
 f05_180_115_20_t211.spt,1098,dialogue,,ナイショなのだ。,It's a secret.
 f05_180_115_20_t211.spt,1107,dialogue,,そんなこと言わずにさあ。,"Don't say that, come on."
-f05_180_115_20_t211.spt,1126,dialogue,,忘れた。,I forgot, heh.
+f05_180_115_20_t211.spt,1126,dialogue,,忘れた。,"I forgot, heh."
 f05_180_115_20_t212.spt,1004,dialogue,,あ、おい！,Hey!
 f05_180_115_20_t213.spt,1015,dialogue,,…まいっか！,Oh well!
 f05_180_115_20_t213.spt,1018,dialogue,,明日から夏休みだし！,Summer vacation starts tomorrow anyway!
@@ -10850,7 +10850,7 @@ free03_01_03_02_t031.spt,1080,dialogue,リョウマ,やったあ！,Yay!
 free03_01_03_02_t031.spt,1083,dialogue,リョウマ,ついに島縦断ですねー。,Finally crossing the island!
 free03_01_03_02_t031.spt,1088,label,,リョウマ,Ryoma
 free03_01_03_02_t031.spt,1094,dialogue,リョウマ,ああ。,Ah.
-free03_01_03_02_t031.spt,1105,dialogue,リョウマ,これで白地図がまた埋まったな。,"Well, that fills in another blank on the map."
+free03_01_03_02_t031.spt,1105,dialogue,リョウマ,これで白地図がまた埋まったな。,"That fills in another blank on the map."
 free03_01_03_02_t031.spt,1108,dialogue,リョウマ,さて、帰るか。,"Well, time to head back."
 free03_01_03_99.spt,1454,dialogue,,いまはＰＣを使えるようにするのが,Getting the PC up and running
 free03_01_03_99.spt,1457,dialogue,,先決だ。,is the top priority.
