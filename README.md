@@ -18,10 +18,9 @@ For anyone who is might be trying to get this to work on an emulator. This works
 3. Download the files from the Medabots9-Translations repository
 4. Open Azahar.exe
 5. Install Medabots9 .cia game/file (File -> Install CIA... -> Find your .cia file)
-6. Right click on the game -> Open -> Mods Location, it should take you to something like this ...\AppData\Roaming\AzaharPlus\load\mods\0004000000174F00
+6. Right click on the game -> Open -> Mods Location, it should take you to something like this ...\AppData\Roaming\AzaharPlus\load\mods\0004000000174F00 (0004000000174E00 is **KBT** and 0004000000174F00 is **KWG**)
 7. Make a romfs and exefs folder inside the 0004000000174F00 folder
 8. Add the exefs and romfs folders inside the data folder (from the repository download in step 3.) into the folder structure of the mod 0004000000174F00 folder
-9. **If you are using KBT do not add the exefs files. You can skip the exefs stuff, those only work for KWG**
 
 It should end up looking something like this for the exefs folder:
 
