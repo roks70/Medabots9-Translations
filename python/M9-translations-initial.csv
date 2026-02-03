@@ -3796,7 +3796,7 @@ f03_080_100_00_t001.spt,1089,dialogue,リュウセイ,お前こそ、ここで�
 f03_080_100_00_t001.spt,1094,label,,リュウセイ,Ryusei
 f03_080_100_00_t001.spt,1100,dialogue,リュウセイ,見りゃわかんだろ？,"Can't you tell just by looking?"
 f03_080_100_00_t001.spt,1103,dialogue,リュウセイ,野外演習に行くトコさ。,We're heading out for field training.
-f03_080_100_00_t001.spt,1111,dialogue,リュウセイ,今日は外輪山まで往復だぜ！,"Today we're going all the way to the outer 
+f03_080_100_00_t001.spt,1111,dialogue,リュウセイ,今日は外輪山まで往復だぜ！,"Today we're going all the way to the outer
 rim and back!"
 f03_080_100_00_t001.spt,1119,dialogue,リュウセイ,外輪山…？,Outer rim of the caldera...?
 f03_080_100_00_t001.spt,1124,label,,リュウセイ,Ryusei
@@ -4769,7 +4769,7 @@ f05_035_230_10_t024.spt,1091,label,,ヒロキ,Hiroki
 f05_035_230_10_t024.spt,1097,dialogue,ヒロキ,…うん。,...Yeah.
 f05_035_230_10_t024.spt,1112,dialogue,ヒロキ,そうかー、なるほどわかったよ。,"Oh, I see. Now I understand."
 f05_035_230_10_t024.spt,1115,dialogue,ヒロキ,いや、ぜんぜんナルホドじゃないんだけど。,"Well, I don't really get it at all."
-f05_035_230_10_t024.spt,1123,dialogue,ヒロキ,でもサイカさんって、転入してきたばかりだろ？,"But didn't Saika-san just transfer here?
+f05_035_230_10_t024.spt,1123,dialogue,ヒロキ,でもサイカさんって、転入してきたばかりだろ？,"But didn't Saika-san just transfer here?"
 f05_035_230_10_t024.spt,1126,dialogue,ヒロキ,どうしてこの場所のこと知ってるんだろう。,How would she know about this place?
 f05_035_230_10_t024.spt,1131,label,,ヒロキ,Hiroki
 f05_035_230_10_t024.spt,1137,dialogue,ヒロキ,さあ…　それはわからないけど。,Well...I don't know about that.
@@ -5493,8 +5493,8 @@ f06_017_161_00_t011.spt,1079,dialogue,マイン,ん？,Huh?
 f06_017_161_00_t011.spt,1092,label,,マイン,Main
 f06_017_161_00_t011.spt,1103,dialogue,マイン,元々ひとカタマリの物質だったメダリアは,"Since Medalia was originally a single mass,"
 f06_017_161_00_t011.spt,1106,dialogue,マイン,比較的簡単に合成することができます。,"it can be synthesized relatively easily."
-f06_017_161_00_t011.spt,1114,dialogue,マイン,それぞれの環境で得た特性を打ち消し合うことがあり,"Environmental traits sometimes canceled each
-f06_017_161_00_t011.spt,1117,dialogue,マイン,実用化の壁になっていました。,other out, hindering practical use. We've
+f06_017_161_00_t011.spt,1114,dialogue,マイン,それぞれの環境で得た特性を打ち消し合うことがあり,"Environmental traits sometimes canceled each"
+f06_017_161_00_t011.spt,1117,dialogue,マイン,実用化の壁になっていました。,"other out, hindering practical use. We've"
 f06_017_161_00_t011.spt,1132,dialogue,マイン,ようやく法則を見つけました。,finally identified the underlying principle
 f06_017_161_00_t011.spt,1135,dialogue,マイン,実用レベルに仕上がったので持ってきました。,and made it possible to use. So now it's here.
 f06_017_161_00_t011.spt,1166,label,,マイン,Main
@@ -5572,7 +5572,7 @@ f06_020_161_00_t023.spt,1070,dialogue,マイン,メダリアは音を出すの�
 f06_020_161_00_t023.spt,1077,label,,マイン,Main
 f06_020_161_00_t023.spt,1086,dialogue,マイン,出します。,It emits. These are frequencies inaudible 
 f06_020_161_00_t023.spt,1089,dialogue,マイン,人間には聞こえない周波です。,"to humans. The device picks up sound waves,"
-f06_020_161_00_t023.spt,1097,dialogue,マイン,音波を端末で拾ってＰＣに送って解析して,"sends them to a PC for analysis, and then
+f06_020_161_00_t023.spt,1097,dialogue,マイン,音波を端末で拾ってＰＣに送って解析して,"sends them to a PC for analysis, and then"
 f06_020_161_00_t023.spt,1100,dialogue,マイン,正の位置情報だけ端末に送り返します。,sends only the correct location information
 f06_020_161_00_t023.spt,1108,dialogue,マイン,すると端末からメダリアの位置情報がわかります。,"back to the device. This allows the device
 to determine the location of the Medalia."
@@ -5758,7 +5758,7 @@ f06_100_600_00_t011.spt,1136,dialogue,リョウマ,ちょっとは少なくな�
 f06_100_600_00_t011.spt,1141,label,,リョウマ,Ryoma
 f06_100_600_00_t011.spt,1147,dialogue,探検部長：クニギク,実感ないな…,I can't quite believe it...
 f06_100_600_00_t011.spt,1154,label,,探検部長：クニギク,Exploration Club President: Kunigiku
-f06_100_600_00_t011.spt,1160,dialogue,探検部長：クニギク,う～ん、想像してた以上に数が多いね。,"Hmm, there are more than I imagined. If we
+f06_100_600_00_t011.spt,1160,dialogue,探検部長：クニギク,う～ん、想像してた以上に数が多いね。,"Hmm, there are more than I imagined. If we"
 f06_100_600_00_t011.spt,1163,dialogue,探検部長：クニギク,全部となると、なかなか――,"fight them all, it's going to be a while―"
 f06_100_600_00_t011.spt,1179,dialogue,探検部長：クニギク,おい！,Hey!
 f06_100_600_00_t011.spt,1201,dialogue,探検部長：クニギク,…ん？,...Hmm?
@@ -6008,7 +6008,7 @@ f06_150_161_00_t023.spt,1058,label,,マイン,Main
 f06_150_161_00_t023.spt,1067,dialogue,マイン,です。,Correct. The contrast magnification is
 f06_150_161_00_t023.spt,1070,dialogue,マイン,濃度差表現は約１２０倍率です。,"approximately 120x. In reality, there's"
 f06_150_161_00_t023.spt,1078,dialogue,マイン,実際には全島通してほとんど変化ないです。,"almost no change across the entire island."
-f06_150_161_00_t023.spt,1081,dialogue,マイン,島中で妨害音波として機能しています。,It's functioning as an interference sound"
+f06_150_161_00_t023.spt,1081,dialogue,マイン,島中で妨害音波として機能しています。,"It's functioning as an interference sound"
 f06_150_161_00_t023.spt,1089,dialogue,マイン,どこかに中継か伝道設備があるかもしれないです。,"wave throughout the island. There might be
 a relay or transmission facility somewhere."
 f06_150_161_00_t023.spt,1105,label,,リョウマ,Ryoma
@@ -6682,7 +6682,7 @@ f06_270_600_10_t012.spt,1188,dialogue,リュウセイ,しらばっくれてん�
 f06_270_600_10_t012.spt,1191,dialogue,リュウセイ,自分が命令したクセによー！,You're the one who ordered it!
 f06_270_600_10_t012.spt,1199,dialogue,リュウセイ,命令なんてするもんか！,I wouldn't give those orders!
 f06_270_600_10_t012.spt,1202,dialogue,リュウセイ,だいたい――,If that watermelon is so important, why are
-f06_270_600_10_t012.spt,1210,dialogue,リュウセイ,そんなに大事なスイカなら、なんで放っとくんだよ。,"you just leaving it out in the open? You
+f06_270_600_10_t012.spt,1210,dialogue,リュウセイ,そんなに大事なスイカなら、なんで放っとくんだよ。,"you just leaving it out in the open? You"
 f06_270_600_10_t012.spt,1213,dialogue,リュウセイ,カギかけて金庫にでも大事にしまっとけよ！,should lock it up in a safe or something!
 f06_270_600_10_t012.spt,1218,label,,リュウセイ,Ryusei
 f06_270_600_10_t012.spt,1224,dialogue,リュウセイ,あっ、開き直りやがったな,"Oh, you're still playing dumb, huh?"
@@ -8020,7 +8020,7 @@ f08_065_161_00_t011.spt,1038,dialogue,リョウマ,メダリア探索クエス�
 f08_065_161_00_t011.spt,1041,dialogue,リョウマ,マインがまた有望なポイントを見つけたらしい。,seems to have found another promising spot.
 f08_065_161_00_t011.spt,1052,dialogue,マイン,マインちゃんが？,Main-chan?
 f08_065_161_00_t011.spt,1057,label,,マイン,Main
-f08_065_161_00_t011.spt,1066,dialogue,マイン,はい、クレーターで検知した強力な反応を差し引いて,"Yes, I recalculated the data accounting for
+f08_065_161_00_t011.spt,1066,dialogue,マイン,はい、クレーターで検知した強力な反応を差し引いて,"Yes, I recalculated the data accounting for"
 f08_065_161_00_t011.spt,1069,dialogue,マイン,再計算しました。そしたら出てきました。,the signal at the crater. This appeared.
 f08_065_161_00_t011.spt,1080,dialogue,マイン,へえ…,Huh...
 f08_070_339_00_t011.spt,1034,dialogue,リョウマ,わっ！,Whoa!
@@ -8090,7 +8090,7 @@ f08_110_339_00_t031.spt,1036,label,,くんが呼んでるよ。,He's calling you
 f08_110_339_00_t031.spt,1039,dialogue,探検部長：クニギク,行ってみたら？,Why don't you go check it out?
 f08_120_339_00_t011.spt,1046,dialogue,,ここ見てみろ。,Check this out.
 f08_120_339_00_t011.spt,1057,dialogue,,ん？,Hmm?
-f08_120_339_00_t012.spt,1035,dialogue,,ははあ、あっち側になだらかな場所があるな。,There's a gentle slope on that side. If I
+f08_120_339_00_t012.spt,1035,dialogue,,ははあ、あっち側になだらかな場所があるな。,"There's a gentle slope on that side. If I
 can just manage to get past this rocky area"
 f08_120_339_00_t012.spt,1043,dialogue,,目の前の岩場さえがんばって抜ければ,"in front of me, I might be able to reach"
 f08_120_339_00_t012.spt,1046,dialogue,,どこかにたどり着けるかも…,somewhere...
@@ -9113,7 +9113,7 @@ f09_230_810_00_t011.spt,1025,label,,ミオ,Mio
 f09_230_810_00_t011.spt,1036,dialogue,ロボロボ団長,またアンタ…！？,You guys again...!?
 f09_230_810_00_t011.spt,1045,label,,ロボロボ団長,Rubberobo Gang Leader
 f09_230_810_00_t011.spt,1054,dialogue,ロボロボ団長,人様のテリトリーにノコノコ上がりこんでおいて,You've got some nerve saying something like
-f09_230_810_00_t011.spt,1057,dialogue,ロボロボ団長,そんなセリフ、よく言えたもんだぜおじょーちゃん。,"that after shamelessly intruding on someone
+f09_230_810_00_t011.spt,1057,dialogue,ロボロボ団長,そんなセリフ、よく言えたもんだぜおじょーちゃん。,"that after shamelessly intruding on someone"
 f09_230_810_00_t011.spt,1065,dialogue,ロボロボ団長,加えて、目上に対する礼儀もなってねえ。,"else's territory, little missy! On top of
 that, you have no respect for your elders."
 f09_230_810_00_t011.spt,1073,dialogue,ロボロボ団長,これは体罰もやむを得んなあ！,This calls for corporal punishment!
@@ -9654,7 +9654,7 @@ f11_050_108_00_t012.spt,1167,dialogue,校長,こうなった原因の一部は�
 f11_050_108_00_t012.spt,1170,dialogue,校長,責任をとってもらうぞ。,You're going to take responsibility for this.
 f11_050_108_00_t012.spt,1197,dialogue,校長,わかりました。,Understood.
 f11_050_108_00_t012.spt,1205,dialogue,校長,なにをすればいいのか言ってください。,Please tell me what I need to do.
-f11_050_108_00_t013.spt,1032,dialogue,コイマリ先生,あの、ちょっと？,"Excuse me, could I ask you something?
+f11_050_108_00_t013.spt,1032,dialogue,コイマリ先生,あの、ちょっと？,"Excuse me, could I ask you something?"
 f11_050_108_00_t013.spt,1040,dialogue,コイマリ先生,校長せんせ――,Principal―
 f11_050_108_00_t013.spt,1045,label,,コイマリ先生,Ms. Koimari
 f11_050_108_00_t013.spt,1054,dialogue,コイマリ先生,どいて！！,Get out of the way!!
@@ -10143,7 +10143,7 @@ f11_150_950_00_t025.spt,1122,dialogue,リョウマ,やつがおとなしく待�
 f11_150_950_00_t025.spt,1136,label,,校長,Principal
 f11_150_950_00_t025.spt,1142,dialogue,校長,待つさ。,It will wait.
 f11_150_950_00_t025.spt,1150,dialogue,校長,やつに知性はない。,It has no intelligence.
-f11_150_950_00_t025.spt,1165,dialogue,探検部長：クニギク,あるのは本能、食欲のみだ。,"All it has is instinct and endless hunger.
+f11_150_950_00_t025.spt,1165,dialogue,探検部長：クニギク,あるのは本能、食欲のみだ。,"All it has is instinct and endless hunger."
 f11_150_950_00_t025.spt,1172,label,,探検部長：クニギク,Exploration Club President: Kunigiku
 f11_150_950_00_t025.spt,1178,dialogue,探検部長：クニギク,食欲…？,Hunger...?
 f11_150_950_00_t025.spt,1192,label,,校長,Principal
@@ -10814,7 +10814,7 @@ free03_01_02_99_t001.spt,1004,dialogue,,『探索：坑道入口』だな。,'Ex
 free03_01_02_99_t001.spt,1012,dialogue,,くわしい内容はクエストアプリを確認しよう。,Check the quest app for details.
 free03_01_02_99_t011.spt,1006,dialogue,,クエスト『探索：坑道入口』を達成した！,Quest 'Exploration: Mine Entrance' completed!
 free03_01_02_99_t011.spt,1011,dialogue,,探検部の実績が上がった！,The Exploration Club's reputation has risen!
-free03_01_03_00_t011.spt,1032,dialogue,,クエスト『探索：霧の樹海』…,Quest "Exploration: The Misty Forest'...
+free03_01_03_00_t011.spt,1032,dialogue,,クエスト『探索：霧の樹海』…,Quest 'Exploration: The Misty Forest'...
 free03_01_03_00_t011.spt,1040,label,,リョウマ,Ryoma
 free03_01_03_00_t011.spt,1046,dialogue,リョウマ,島の北東部に、いつ行っても深い霧のかかっている,"In the northeastern part of the island, is"
 free03_01_03_00_t011.spt,1049,dialogue,リョウマ,不思議な森があるんだ。,a mysterious forest shrouded in deep fog.
@@ -11194,7 +11194,7 @@ free06_02_02_03_t011.spt,1097,dialogue,マイン,ロープがあります。,The
 free06_02_02_03_t011.spt,1100,dialogue,マイン,これを使えば安全に降りられます。,Using this allows you to descend safely.
 free06_02_02_03_t011.spt,1117,label,,ミオ,Mio
 free06_02_02_03_t011.spt,1123,dialogue,マイン,ロープってあんた…,That rope...is it from the mining days?
-free06_02_02_03_t011.spt,1126,dialogue,マイン,鉱山時代のやつよね？　何十年か前のやつよねっ？,"The one from several decades ago?
+free06_02_02_03_t011.spt,1126,dialogue,マイン,鉱山時代のやつよね？　何十年か前のやつよねっ？,"The one from several decades ago?"
 free06_02_02_03_t011.spt,1133,label,,マイン,Main
 free06_02_02_03_t011.spt,1139,dialogue,マイン,ボロボロなのは見た目だけです。,It's only the appearance that's worn out.
 free06_02_02_03_t011.spt,1142,dialogue,マイン,シンに鋼材が入ってますから丈夫です。,"It's reinforced with steel, so it's sturdy."
@@ -12241,7 +12241,7 @@ npc_f_2b_163_s07_t010.spt,1041,dialogue,ショウコ,悔しいですけど、ち
 npc_f_2b_meda_000_s00_t001.spt,1024,label,,ブレザーメイツ,Blazermate
 npc_f_2b_meda_000_s00_t001.spt,1035,dialogue,ブレザーメイツ,こんにちは。,Hello.
 npc_f_2b_meda_163_s01_t011.spt,1027,label,,ブレザーメイツ,Blazermate
-npc_f_2b_meda_163_s01_t011.spt,1038,dialogue,ブレザーメイツ,こんどのＰＶはビーチで撮るの。,"We're going to shoot the next PV on the beach.
+npc_f_2b_meda_163_s01_t011.spt,1038,dialogue,ブレザーメイツ,こんどのＰＶはビーチで撮るの。,"We're going to shoot the next PV on the beach."
 npc_f_2b_meda_163_s01_t011.spt,1041,dialogue,ブレザーメイツ,どんなセッティングにしようか悩んじゃうな～。,But it's hard to decide on the setting～.
 npc_f_2b_meda_163_s04_t011.spt,1027,label,,ブレザーメイツ,Blazermate
 npc_f_2b_meda_163_s04_t011.spt,1038,dialogue,ブレザーメイツ,さってとロボトルだロボトル！,"Alright, let's get this robattle started!"
@@ -12293,7 +12293,7 @@ npc_f_2c_164_s06_t011.spt,1041,dialogue,ミスズ,部活にぜんぜん出てこ
 npc_f_2c_164_s06_t011.spt,1049,dialogue,ミスズ,そりゃあ夏休みだし、部活動は強制じゃないけど,"with him? I mean, it's summer vacation, and"
 npc_f_2c_164_s06_t011.spt,1052,dialogue,ミスズ,それにしたって、ねえ？,"club activities aren't mandatory, but"
 npc_f_2c_164_s06_t011.spt,1060,dialogue,ミスズ,どこかで、悪い遊びとか覚えてないといいけど…,"still...I hope he hasn't gotten into any
-bad habits somewhere... but then again,"
+bad habits somewhere...but then again,"
 npc_f_2c_164_s06_t011.spt,1068,dialogue,ミスズ,って、この島じゃそんなの覚える場所もないか。,"there's nowhere on this island where he"
 npc_f_2c_164_s06_t011.spt,1071,dialogue,ミスズ,あはは。,could learn anything like that. Ahaha.
 npc_f_2c_164_s06_t021.spt,1027,label,,ミスズ,Misuzu
@@ -12534,7 +12534,7 @@ npc_f_3b_163_s06_t011.spt,1052,dialogue,アマネコ,落ち着かなくってさ
 npc_f_3b_163_s06_t011.spt,1060,dialogue,アマネコ,そんなにアセって帰ってきても,"possible. I was worried that it would be"
 npc_f_3b_163_s06_t011.spt,1063,dialogue,アマネコ,だれもいなかったらイミないじゃん！,"pointless to rush back if no one else was"
 npc_f_3b_163_s06_t011.spt,1071,dialogue,アマネコ,って心配してたんだけど、そんなことなかった。,"there, but that wasn't the case at all."
-npc_f_3b_163_s06_t011.spt,1074,dialogue,アマネコ,気持ちはみんないっしょだねー。,Everyone felt the same way."
+npc_f_3b_163_s06_t011.spt,1074,dialogue,アマネコ,気持ちはみんないっしょだねー。,"Everyone felt the same way."
 npc_f_3b_163_s07_t001.spt,1027,label,,アマネコ,Amaneko
 npc_f_3b_163_s07_t001.spt,1038,dialogue,アマネコ,あ～、ラウリのやつ,"Ah, Lauri seems to be struggling with that"
 npc_f_3b_163_s07_t001.spt,1041,dialogue,アマネコ,あれはそうとう悩んでるね～。,"decision～. Well, I guess it's understandable"
@@ -13538,7 +13538,7 @@ npc_m_1f_130_s03_t011.spt,1038,dialogue,マサムネ,ようやく練習につい
 npc_m_1f_130_s03_t011.spt,1056,dialogue,マサムネ,ここからが本番だ！,"the practice...this is where the
 real challenge begins!"
 npc_m_1f_130_s06_t011.spt,1024,label,,マサムネ,Masamune
-npc_m_1f_130_s06_t011.spt,1035,dialogue,マサムネ,最強のメダロッターかあ…,The strongest medafighter..."
+npc_m_1f_130_s06_t011.spt,1035,dialogue,マサムネ,最強のメダロッターかあ…,"The strongest medafighter..."
 npc_m_1f_130_s06_t011.spt,1038,dialogue,マサムネ,でもオレ、最強のアタッカーになりたいんだよな…,But I want to be the strongest attacker...
 npc_m_1f_130_s06_t011.spt,1046,dialogue,マサムネ,二兎を追う者は…　とも言うし…,They say you can't chase two rabbits at 
 npc_m_1f_130_s06_t011.spt,1049,dialogue,マサムネ,あるいはアブハチとらず、という言葉も――,"once lest you catch neither..."
@@ -14997,7 +14997,7 @@ npc_rescue_165_s02_t011.spt,1070,dialogue,レスキュー部長,なんだ？,Wha
 npc_rescue_165_s02_t011.spt,1073,dialogue,レスキュー部長,今わたしは忙しい。話ならあとにしてくれ。,"If you want to talk, do it later."
 npc_rescue_165_s06_t011.spt,1024,label,,レスキュー部長,Rescue Chief
 npc_rescue_165_s06_t011.spt,1035,dialogue,レスキュー部長,ふむ、山の東側は断崖か…,"Hmm, the eastern side of the mountain is a"
-npc_rescue_165_s06_t011.spt,1038,dialogue,レスキュー部長,ラペリングに利用できるかもしれんな。,sheer cliff...We might be able to use it"
+npc_rescue_165_s06_t011.spt,1038,dialogue,レスキュー部長,ラペリングに利用できるかもしれんな。,"sheer cliff...We might be able to use it"
 npc_rescue_165_s06_t011.spt,1046,dialogue,レスキュー部長,しかし、道中の橋が気になる。,"for rappelling. However, I'm worried about"
 npc_rescue_165_s06_t011.spt,1049,dialogue,レスキュー部長,鉱山時代のものとすれば耐久力に不安が――,"bridge. If it's from the mining era, its"
 npc_rescue_165_s06_t011.spt,1070,dialogue,レスキュー部長,なんだ？,structural integrity is questionable― What?
@@ -15065,7 +15065,7 @@ npc_rival_165_s06_t011.spt,1038,dialogue,リュウセイ,カンケイねー部�
 npc_rival_165_s06_t011.spt,1046,dialogue,リュウセイ,お前とちがって、オレら夏休みでもいそがしいんだ。,"even during summer vacation. Just go quietly"
 npc_rival_165_s06_t011.spt,1049,dialogue,リュウセイ,おとなしく地下でスイカでも食ってろって。な？,"eat some watermelon in the basement, okay?"
 npc_rival_165_s07_t011.spt,1024,label,,リュウセイ,Ryusei
-npc_rival_165_s07_t011.spt,1035,dialogue,リュウセイ,あ？　なんだよお前かよ。,"Huh? Oh, it's you. Stop loitering around our
+npc_rival_165_s07_t011.spt,1035,dialogue,リュウセイ,あ？　なんだよお前かよ。,"Huh? Oh, it's you. Stop loitering around our"
 npc_rival_165_s07_t011.spt,1038,dialogue,リュウセイ,カンケイねー部でフラフラしてんじゃねーよ。,"club. Unlike you, we have nothing to do with"
 npc_rival_165_s07_t011.spt,1046,dialogue,リュウセイ,お前とちがって、オレら文化祭とかカンケイねーし。,"the school festival. We're busy as always."
 npc_rival_165_s07_t011.spt,1049,dialogue,リュウセイ,いつもと同じでいそがしいんだ。,You go practice flipping okonomiyaki or
@@ -15356,7 +15356,7 @@ npc_teach_fb_000_s07_t011.spt,1027,label,,コイマリ先生,Ms. Koimari
 npc_teach_fb_000_s07_t011.spt,1038,dialogue,コイマリ先生,あら,"Oh "
 npc_teach_fb_000_s07_t011.spt,1040,label,,くん。,-kun.
 npc_teach_fb_000_s07_t011.spt,1043,dialogue,コイマリ先生,いつも忙しそうね。,"You always seem so busy. If you feel unwell,"
-npc_teach_fb_000_s07_t011.spt,1051,dialogue,コイマリ先生,体調がおかしいと感じたら、すぐ教えてね。,"please let me know immediately. I'm the only
+npc_teach_fb_000_s07_t011.spt,1051,dialogue,コイマリ先生,体調がおかしいと感じたら、すぐ教えてね。,"please let me know immediately. I'm the only"
 npc_teach_fb_000_s07_t011.spt,1054,dialogue,コイマリ先生,この島に医師は、わたしだけなんですからね。,"doctor on this island."
 npc_teach_fb_101_s01_t011.spt,1024,label,,保険医,School Nurse
 npc_teach_fb_101_s01_t011.spt,1035,dialogue,保険医,あら,Oh my
@@ -15406,7 +15406,7 @@ npc_teach_fb_meda_000_s07_t011.spt,1038,dialogue,ヒールエンジェル,あら
 npc_teach_fb_meda_000_s07_t011.spt,1040,label,,くん。,-kun.
 npc_teach_fb_meda_000_s07_t011.spt,1043,dialogue,ヒールエンジェル,身体の調子はどう？,How are your medaparts? Don't push
 npc_teach_fb_meda_000_s07_t011.spt,1051,dialogue,ヒールエンジェル,あんまりムリしてストレスためちゃダメよ。,yourself too hard or else stress will build
-npc_teach_fb_meda_000_s07_t011.spt,1054,dialogue,ヒールエンジェル,メダルにだって、こわ～い病気はあるんですからね。,"up. Even medals can have terrible diseases.
+npc_teach_fb_meda_000_s07_t011.spt,1054,dialogue,ヒールエンジェル,メダルにだって、こわ～い病気はあるんですからね。,"up. Even medals can have terrible diseases."
 npc_teach_fb_meda_108_s11_t011.spt,1027,label,,ヒールエンジェル,Heal Angel
 npc_teach_fb_meda_108_s11_t011.spt,1038,dialogue,ヒールエンジェル,校長先生のことは、わたしたちに任せて。,Leave the principal to us. We've been taking
 npc_teach_fb_meda_108_s11_t011.spt,1041,dialogue,ヒールエンジェル,今までだって、ずっとお世話してきたんですもの。,"care of him all this time, after all."
@@ -15467,7 +15467,7 @@ npc_teach_mc_meda_000_s00_t001.spt,1024,label,,ドクタースタディ,Dr. Bokc
 npc_teach_mc_meda_000_s00_t001.spt,1035,dialogue,ドクタースタディ,こんにちは。,"Hello, studying hard or hardly studying?"
 npc_teach_mc_meda_132_s07_t011.spt,1027,label,,ドクタースタディ,Dr. Bokchoy	
 npc_teach_mc_meda_132_s07_t011.spt,1038,dialogue,ドクタースタディ,体育館なんて久しぶり。,It's been so long since I've been in a gym.
-npc_teach_mc_meda_132_s07_t011.spt,1041,dialogue,ドクタースタディ,いっつも職員室と教室と購買と、あとはー,"I'm just at the staff room, classrooms, store―
+npc_teach_mc_meda_132_s07_t011.spt,1041,dialogue,ドクタースタディ,いっつも職員室と教室と購買と、あとはー,"I'm just at the staff room, classrooms, store―"
 npc_teach_mc_meda_132_s07_t011.spt,1059,dialogue,ドクタースタディ,とにかく同じ場所ぐるぐる回ってばっかりなんだ。,"I'm just always going in circles in the same"
 npc_teach_mc_meda_132_s07_t011.spt,1062,dialogue,ドクタースタディ,ホントめんどくさがりなんだからマスターはー！,places. My master is such a lazy person!
 npc_teach_meda_000_s00_t001.spt,1024,label,,サムライ,Samurai
