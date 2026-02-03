@@ -1,5 +1,7 @@
 ## Disclosure
-Just to be upfront, the initial story translation after Omnija and Sotaeko's work was made using DeepL's translations. This is initially machine translated and it is in the process of being cleaned up by me (and hopefully more people!). I am also in the process of cleaning up the files Omnija and Sotaeko updated where necessary to be more inline with everything else.
+Just to be upfront, the initial story translation after Omnija and Sotaeko's work was made using DeepL's translations. This was initially machine translated and then cleaned up by me.  
+**DLC** works with the english patch. **Update** .cia does not fully work with the english patch since it'll overwrite some files I'm modifying. I translated with the base game, applying the update will likely cause unexpected behavior.  
+**Female protagonist** by Sotaeko and Omnija works with the english patch.
 
 ## Credit
 Credit for starting and doing the essential gameplay elements:  
@@ -40,7 +42,7 @@ I included the **populate-spt-files.py** script for populating the original .spt
 
 ## Progress
 Story (story/spt) - quality checked all story lines.  
-Battle (battle/spt) - 2/8 full tutorials quality checked. The other aren't used.  
-Help/Info (mdr/spt) - ~900 files. This seems to be the medaparts, memos, skill descriptions, 3 tutorials quality checked. Translations don't break the game but look rather ugly until quality checked/formatted.  
+Battle (battle/spt) - tutorials 1 and 2 are quality checked. The other aren't used.  
+Help/Info (mdr/spt) - ~900 files. This seems to be the medawatch files which includes medaparts, memos, skill descriptions, 3 tutorials quality checked. Translations don't break the game but look rather ugly until quality checked/formatted.  
 Internal Data (param) - this is where the medapart names/values live but it is binary data so a bit harder to edit manually without breaking something.  
 
