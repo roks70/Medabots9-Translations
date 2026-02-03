@@ -21,6 +21,7 @@ For anyone who is might be trying to get this to work on an emulator. This works
 6. Right click on the game -> Open -> Mods Location, it should take you to something like this ...\AppData\Roaming\AzaharPlus\load\mods\0004000000174F00 (0004000000174E00 is **KBT** and 0004000000174F00 is **KWG**)
 7. Make a romfs and exefs folder inside the 0004000000174F00 folder
 8. Add the exefs and romfs folders inside the data folder (from the repository download in step 3.) into the folder structure of the mod 0004000000174F00 folder
+9. For the exefs, pick either the KWG or KBT banner/code.bin to put into the exefs folder
 
 It should end up looking something like this for the exefs folder:
 
